@@ -1,0 +1,62 @@
+{% load staticfiles lang_tags i18n %}
+
+<header class="header-wrapper">
+    <div id="header_" class="header-banner-icon animated">
+        <div class="header-social-wrapper">
+            <div class="social-box_header">
+                <div class="social-icons">
+                    <div class="footer-language-wrapper_white">
+                        {% get_available_languages as LANGUAGES %}
+                        {% for language_code, language_name in LANGUAGES %}
+                            <a href="{% change_lang language_code %}">{{ language_name }}</a>
+                        {% endfor %}
+                    </div>
+                    <span class="phone"> <span class="phone-ic"></span>+212 5 37 74 99 91</span>
+                    <a class="social-ic-common" title="facebook"><img src="{% static 'header/facebook.png' %}"
+                                                                      alt="facebook"></a>
+                    <a class="social-ic-common" title="instagram"><img src="{% static 'header/instagram.png' %}"
+                                                                       alt="instagram"></a>
+                    <a class="social-ic-common" title="youtube"><img src="{% static 'header/youtube.png' %}"
+                                                                     alt="youtube"></a>
+                    <a class="social-ic-common" title="linkedin"><img src="{% static 'header/linked.png' %}"
+                                                                      alt="linked"></a>
+                </div>
+            </div>
+        </div>
+        <div class="header-context-wrapper">
+            <div class="brand-logo-box">
+                <a href="{% url 'home' %}" class="brand-link">
+                    <span class="brand-icon"></span>
+                </a>
+            </div>
+            <nav class="navigation-wrapper">
+                <div class="nav-house-ic"></div>
+                <ul class="navigation-box">
+                    <li class="navigation-li">
+                        <a class="li-link drop-btn" href="{% url 'company' %}">{% trans 'Société' %}</a>
+                    </li>
+                    <li class="navigation-li">
+                        <a class="li-link drop-btn" href="/#products">{% trans 'produits' %}</a>
+                    </li>
+                    <li class="navigation-li">
+                        <a class="li-link drop-btn" href="/#advantages">{% trans 'Avantage' %}</a>
+                    </li>
+                    <li class="navigation-li">
+                        <a class="li-link drop-btn" href="{% url 'steps' %}">{% trans 'Etapes De Construction' %}</a>
+                    </li>
+                    <li class="navigation-li">
+                        <a class="li-link drop-btn" href="/#partners">{% trans 'Partenaires' %}</a>
+                    </li>
+                    <li class="navigation-li">
+                        <a class="li-link drop-btn" href="/#projects">{% trans 'projets' %}</a>
+                    </li>
+                    <li class="navigation-li">
+                        <a class="li-link drop-btn" href="{% url 'contacts' %}">{% trans 'contactez-nous' %}</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+        <div class="header-motivation-txt">Le futur de la<br> construction</div>
+    </div>
+</header>
+

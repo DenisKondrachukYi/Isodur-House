@@ -1,0 +1,264 @@
+{% extends 'base.html' %}
+{% load staticfiles i18n %}
+{% block content %}
+
+    <div class="product-wrapper_2prod">
+        <div class="wrraper_top_block">
+            <div class="product-description">
+                <h3 class="prod-title">{% trans 'ETAPES DE' %}
+                    <span>{% trans 'CONSTRUCTION' %}</span></h3>
+                <div class="wrapper-feedback_block">
+
+                    <div class="feedback_text_block for_product_3_isodure">
+                        <h1>{% trans 'Mise en œuvre du projet pilote a Témara' %}</h1>
+                        <p>Le systeme ISODUR est un systeme de coffrage isolant dont les blocs sont constitues
+                            principalement de
+                            polystyrene expanse a double paroi (EPS), Ce systeme est destine a realiser !'ensemble des
+                            elements
+                            porteurs des gros ceuvres, en assurant en meme temps, 11ntegralite de I' isolation de tout
+                            type de
+                            batiment, ainsi que la construction en dur « Beton » qui repondent aux normes et exigences
+                            du BTP
+                            du batiment. Sur une fondation classique, une fois le beton est coule a l'interieur des
+                            blocs, ii
+                            en resulte un mur appele-sandwichqui n'est tout autre que le mariage de beton et de
+                            polystyrene expanse,
+                            ne laissant aucun espace d'air. Ce mur est un mur porteur possedant une resistance de loin
+                            superieure
+                            a une structure traditionnelle, permettant de realiser, tous types de constructions qui
+                            repondent
+                            aux exigences suivantes : solidite, rapidite, securite et une isolation exceptionnelle, et
+                            ce dans
+                            le plus grand respect de l'environnement.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="steps-carousel">
+        <div class="steps_block">
+                <img class="logo_etaps" src='{% static "header/isodurhouse.png" %}'>
+            </div>
+            <div class="steps_block">
+                <p class="steps_title">Etape 1</p>
+                <img src='{% static "steps/1_steps.png" %}'>
+                <p>
+                    {% blocktrans %} La réalisation des semelles s’apparente à celles d’une construction standard. Lors
+                        de leur bétonnage, des
+                        tiges d’armature verticales sont placées afin de les ancrer solidement avec les mur de béton et
+                        ainsi éviter
+                        tout déplacement latéral.
+                    {% endblocktrans %}
+                </p>
+            </div>
+            <div class="steps_block">
+                <p class="steps_title">Etape 2</p>
+                <img src="{% static 'steps/2_steps.png' %}">
+                <p>
+                    {% blocktrans %}
+                        Les deux panneaux parallèles, formant le coffrage isolant, sont retenus entre eux par des tiges
+                        d’assemblage
+                        métalliques afin de préserver une distance voulue, offrant ainsi une solidité et une résistance
+                        au feu accrues
+                        au coffrage.
+                    {% endblocktrans %}
+                </p>
+            </div>
+            <div class="steps_block">
+                <p class="steps_title">Etape 3</p>
+                <img src='{% static "steps/3_steps.png" %}'>
+                <p>
+                    {% blocktrans %}
+                        Les panneaux rigides de polystyrène expansé sont ultra-légers. Ils se transportent et se
+                        manipulent très
+                        aisément sur le chantie
+                    {% endblocktrans %}
+                </p>
+            </div>
+            <div class="steps_block">
+                <p class="steps_title">Etape 4</p>
+                <img src='{% static "steps/4_steps.png" %}'>
+                <p>
+                    {% blocktrans %}
+                        Les blocs se montent les uns avec les autres par emboîtement comme on monte des gros legos.
+                    {% endblocktrans %}
+                </p>
+            </div>
+            <div class="steps_block">
+                <p class="steps_title">Etape 5</p>
+                <img src='{% static "steps/5_steps.png" %}'>
+                <p>
+                    {% blocktrans %}
+                        L’acier d’armature est attaché aux tiges d’assemblage afin d’éviter leur déplacement durant la
+                        mise en place
+                        du béton.
+                    {% endblocktrans %}
+                </p>
+            </div>
+            <div class="steps_block">
+                <p class="steps_title">Etape 6</p>
+                <img src='{% static "steps/6_steps.png" %}'>
+                <h5>{% trans 'Un chantier rapide et propre' %}</h5>
+                <p>
+                    {% blocktrans %}
+                        à l’aide du système d’échafaudage, les murs sont stabilisés et étayés avant et après la mise en
+                        place du
+                        béton. Espacées de 1.5m, les pattes d'échafaudage sont là pour servir de niveau, de cordeau
+                        ainsi que d'échafaudage
+                        pratique lors du coulage.
+                    {% endblocktrans %}
+                </p>
+            </div>
+            <div class="steps_block">
+                <p class="steps_title">Etape 7</p>
+                <img src='{% static "steps/7_steps.png" %}'>
+                <p>
+                    {% blocktrans %} Le béton est coulé à l’intérieur du coffrage isolant par l’entremise d’une pompe à
+                        béton. Une fois mis en
+                        place, il adhère parfaitement à la paroi, donnant naissance a un mur porteur, appelé mur
+                        "sandwich", dont
+                        la résistance est largement supérieure à une structure traditionnelle.
+                    {% endblocktrans %}
+                </p>
+                <p>
+                    {% blocktrans %} Grâce aux qualités isolantes du polystyrène expansé ainsi qu’à la masse thermique
+                        isolante du béton, l’étape
+                        de l’isolation est ainsi réalisée, contrairement aux méthodes
+                        conventionnelles.
+                    {% endblocktrans %}
+                </p>
+                <p>
+                    {% blocktrans %} Résultat : une économie de temps et d‘argent. {% endblocktrans %}
+                </p>
+            </div>
+            <div class="steps_block">
+                <p class="steps_title">Etape 8</p>
+                <img src='{% static "steps/10_steps.png" %}'>
+                <h5>{% trans 'Hourdis en polystyrène expansé.' %}</h5>
+                <p>
+                    {% blocktrans %}
+                        Avantages : Allègent la structure, se manipulent aisément, imputrescibles et ne
+                        craignent pas l’humidité.
+                    {% endblocktrans %}
+                </p>
+            </div>
+            <div class="steps_block">
+                <p class="steps_title">Etape 9</p>
+                <img src='{% static "steps/11_steps.png" %}'>
+                <p>
+                    {% blocktrans %} Pour éviter les joints croisés, la pose se fait rangée par rangée avec un
+                        croisement des blocs comme pour
+                        la maçonnerie traditionnelle. {% endblocktrans %}
+                </p>
+            </div>
+            <div class="steps_block">
+                <p class="steps_title">Etape 10</p>
+                <img src='{% static "steps/12_steps.png" %}'>
+                <img src='{% static "steps/13_steps.png" %}'>
+                <p>
+                    {% blocktrans %}
+                        Pose de ferraillage de la dalle et des poutrelles avant coulage du beton. {% endblocktrans %}
+                </p>
+            </div>
+            <div class="steps_block">
+                <p class="steps_title">Etape 11</p>
+                <img src='{% static "steps/14_steps.png" %}'>
+                <h5>{% trans 'Coulage de la dalle avec vibreur a beton.' %}</h5>
+                <p>
+                    {% blocktrans %} Avant le coulage, des gaines électriques et de plomberie sont noyées dans le voile
+                        béton et dans la dalle.
+                    {% endblocktrans %}
+                </p>
+                <p>
+                    {% blocktrans %}
+                        Résultat : un gain considérable de temps lors du second oeuvre. {% endblocktrans %}
+                </p>
+            </div>
+            <div class="steps_block">
+                <p class="steps_title">Etape 12</p>
+                <img src='{% static "steps/15_steps.png" %}'>
+                <h1>{% trans 'Plomberie et électricité' %}</h1>
+                <p>
+                    {% blocktrans %} A l'aide d'un couteau ou une scie électrique, on taille les ouvertures pour les
+                        boîtes et câblages électriques.
+                    {% endblocktrans %}
+                </p>
+                <p>
+                    {% blocktrans %} Même procède pour tracer les tuyaux de canalisations. {% endblocktrans %}
+                </p>
+            </div>
+            <div class="steps_block">
+                <p class="steps_title">Etape 13</p>
+                <img src='{% static "steps/16_steps.png" %}'>
+                <p>
+                    {% blocktrans %} Une construction en béton armé ne se déforme pas et ne se dégrade pas.
+                        Elle minimise donc les frais d’entretien
+                        au cours des années. {% endblocktrans %}
+                </p>
+            </div>
+            <div class="steps_block">
+                <p class="steps_title">Etape 14</p>
+                <img src='{% static "steps/17_steps.png" %}'>
+                <p>
+                    {% blocktrans %}
+                        L’enveloppe de polystyrène expansé empêche la transmission de l’humidité par le
+                        béton.
+                    {% endblocktrans %}
+                </p>
+                <p>
+                    {% blocktrans %}
+                        Résultat : les murs du sous-sol sont toujours parfaitement secs. {% endblocktrans %}
+                </p>
+            </div>
+            <div class="steps_block">
+                <p class="steps_title">Etape 15</p>
+                <img src='{% static "steps/18_steps.png" %}'>
+                <img src='{% static "steps/19_steps.png" %}'>
+                <p>
+                    {% blocktrans %} Les façades exposées des panneaux - à l'extérieur comme à l'intérieur -
+                        peuvent être recouvertes de façon
+                        classique, au moyen d'enduits, de plaques de plâtre, de parements (marbre,
+                        carrelage, bois,...).
+                    {% endblocktrans %}
+                </p>
+            </div>
+            <div class="steps_block">
+                <p class="steps_title">Etape 16</p>
+                <img src='{% static "steps/20_steps.png" %}'>
+                <p>
+                    {% blocktrans %} Tout comme dans la construction conventionnelle, les coffrages "IsoDur
+                        House" sont conçus de façon à permettre
+                        l’installation de faux cadres et cadres des portes et fenêtres, ainsi que les volets
+                        électriques.
+                    {% endblocktrans %}
+                </p>
+            </div>
+            <div class="steps_block">
+                <p class="steps_title">Etape 17</p>
+                <img src='{% static "steps/21_steps.png" %}'>
+                <img src='{% static "steps/22_steps.png" %}'>
+                <p>
+                    {% blocktrans %} De la même façon qu'une constructions traditionnelles, les armoires de
+                        cuisine se posent et se fixent facilement
+                        dans le mur. {% endblocktrans %}
+                </p>
+            </div>
+            <div class="steps_block">
+                <p class="steps_title">Etape 18</p>
+                <img src='{% static "steps/23_steps.png" %}'>
+                <p>
+                    {% blocktrans %} A l'oeil nu on ne remarque pas la différence entre une façade
+                        traditionnelle et le bijou "IsoDur House".
+                    {% endblocktrans %}
+                </p>
+                <p>
+                    {% blocktrans %} Ce n'est qu'a l'intérieur qu'on sent la différence. Nos coffrages
+                        isolants assurent aux occupants un environnement
+                        sain, tempéré et isolé du bruit. {% endblocktrans %}
+                </p>
+            </div>
+        </div>
+    </div>
+
+
+{% endblock content %}

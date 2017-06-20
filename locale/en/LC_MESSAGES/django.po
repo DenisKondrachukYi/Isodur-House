@@ -1,0 +1,1734 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-13 12:48+0000\n"
+"PO-Revision-Date: 2017-04-12 20:37+0000\n"
+"Last-Translator: b'  <>'\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Translated-Using: django-rosetta 0.7.12\n"
+
+#: isodur/settings.py:126
+msgid "French"
+msgstr ""
+
+#: isodur/settings.py:127
+msgid "English"
+msgstr ""
+
+#: templates/company.html:10
+msgid "ISODUR HOUSE est une société fondée en l’an 2010,"
+msgstr ""
+
+#: templates/company.html:13
+msgid ""
+"« La société est engagée dans le développement de la\n"
+"                    construction solide, pratique et durable,<br> "
+"respectueux de\n"
+"                    l’environnement. » (Le President de la societe)\n"
+"                "
+msgstr ""
+
+#: templates/company.html:19
+msgid ""
+"\n"
+"                    'ISODUR HOUSE Bénéfcie d’une expérience de longue date, "
+"et a initié son\n"
+"                    expansion sur le marché africain de construction par sa "
+"présence sur le marché\n"
+"                    marocain.'\n"
+"                "
+msgstr ""
+
+#: templates/company.html:26
+msgid ""
+"\n"
+"                    Nous avons déjà réalisé d’importants projets et effectué "
+"des missions dans le monde\n"
+"                    entier (comme l’Amérique du Nord, Europe, Asie de l’Est "
+"et Moyen-Orient) ce qui rend\n"
+"                    l’entreprise plus solide et plus performante sur le "
+"marché de la construction.\n"
+"                "
+msgstr ""
+
+#: templates/company.html:33
+msgid "POURQUOI CHOISIR ISODUR ???"
+msgstr ""
+
+#: templates/company.html:34
+msgid "LE PRINCIPE EST SIMPLE"
+msgstr ""
+
+#: templates/company.html:40
+msgid ""
+"\n"
+"                        Les coffrages ISODUR sont empilés, armés avec de "
+"l'acier et remplis de béton, ce qui\n"
+"                        complète l'enveloppe du bâtiment de votre structure "
+"résidentielle en une seule étape de\n"
+"                        construction.\n"
+"                    "
+msgstr ""
+
+#: templates/company.html:47
+msgid ""
+"\n"
+"                        Les coffrages ISODUR sont offerts en un éventail de "
+"formes et de dimensions de façon\n"
+"                        à convenir à tous les types d'exigences et de "
+"conceptions de construction. ISODUR\n"
+"                        offre également un éventail de produits accessoires "
+"qui complètent notre gamme de\n"
+"                        produits de coffrage isolé pour béton.\n"
+"                        Voir les gammes de produits\n"
+"                    "
+msgstr ""
+
+#: templates/company.html:55
+msgid "INNOVATION"
+msgstr ""
+
+#: templates/company.html:56
+msgid ""
+"Les coffrages isolés pour béton ISODUR fournissent de nombreux avantages "
+"lors de la construction."
+msgstr ""
+
+#: templates/company.html:58
+msgid ""
+"\n"
+"                        La polyvalence et la facilité d'installation des "
+"coffrages isolés pour béton ISODUR sont\n"
+"                        sans pareil avec nos caractéristiques de coffrage "
+"novatrices qui fournissent une\n"
+"                        technologie brevetée que seule la Corporation ISODUR "
+"peut vous offrir.\n"
+"                    "
+msgstr ""
+
+#: templates/company.html:64
+msgid "ÉTAPES DE CONSTRUCTION 6 EN 1"
+msgstr ""
+
+#: templates/company.html:66
+msgid ""
+"\n"
+"                        Regrouper six éléments muraux en un seul produit "
+"élimine des étapes de construction\n"
+"                        coûteuses et permet de bâtir le projet de "
+"construction avec une plus grande rapidité et\n"
+"                        efficacité.\n"
+"                    "
+msgstr ""
+
+#: templates/company.html:72
+msgid "À QUOI VOUS POUVEZ VOUS ATTENDRE DE ISODUR ???"
+msgstr ""
+
+#: templates/company.html:74
+#, python-format
+msgid ""
+"\n"
+"                        ISODUR possède une industrie 100%% locale et un "
+"vaste réseau de distributeurs\n"
+"                        autorisés pouvant vous aider du concept à la "
+"réalisation de l'installation avec un\n"
+"                        installateur formé par ISODUR.\n"
+"                    "
+msgstr ""
+
+#: templates/company.html:81
+msgid ""
+"\n"
+"                        ISODUR se targue de vous fournir le meilleur soutien "
+"d'entreprises solides et de bonne\n"
+"                        réputation au sein de vos régions géographiques "
+"locales pour représenter ses produits.\n"
+"                        Installer le système de coffrage isolé pour béton -"
+"ISODUR réduit de façon considérable\n"
+"                        les coûts de main-d'œuvre et de transport pour les "
+"installations typiques. Les coffrages\n"
+"                        isolés pour béton - ISODUR sont faciles à manipuler, "
+"entreposer et installer.\n"
+"                    "
+msgstr ""
+
+#: templates/contacts.html:10
+msgid ""
+"\n"
+"                    <span>ISODUR HOUSE</span> et t’une industrie locale de "
+"matériaux de construction\n"
+"                    innovants valorisant pleinement les compétences "
+"nationales capable\n"
+"                    d’accompagner et de soutenir les projets nationaux pour "
+"le développement de\n"
+"                    l’habitat écologique et moderne en positionnant le Maroc "
+"en tant que\n"
+"                    fournisseur majeur de matériaux de construction aussi "
+"bien au niveau national\n"
+"                    qu’international, y compris les pays du continent "
+"africains.\n"
+"                "
+msgstr ""
+
+#: templates/contacts.html:19
+msgid "NOTRE SERVICE ASSISTANCE ISODUR HOUSE"
+msgstr ""
+
+#: templates/contacts.html:20
+msgid "Réussir son gros œuvre en toute sérénité :"
+msgstr ""
+
+#: templates/contacts.html:22
+msgid ""
+"\n"
+"                    La société ISODUR HOUSE, offre à l’ensemble de ses "
+"clients une\n"
+"                    Formation à l’utilisation des blocs coffrant.\n"
+"                "
+msgstr ""
+
+#: templates/contacts.html:28
+msgid ""
+"\n"
+"                    Cette formation initiale est dispensée au siège ISODUR "
+"HOUSE à La zone\n"
+"                    industrielle Ain Atiq région de Rabat, sur demande comme "
+"elle peut se faire\n"
+"                    directement sur votre chantier selon conditions.\n"
+"                "
+msgstr ""
+
+#: templates/contacts.html:35
+msgid ""
+"\n"
+"                    Nous invitons les entrepreneurs, architectes, ingénieurs "
+"et professionnels de la\n"
+"                    conception à participer pour en apprendre davantage sur "
+"les avantages de la\n"
+"                    construction avec ISODUR HOUSE.\n"
+"                "
+msgstr ""
+
+#: templates/contacts.html:43
+msgid "FORMATION À L’USINE ISODUR HOUSE"
+msgstr ""
+
+#: templates/contacts.html:45
+msgid "Gestion d’un projet de construction"
+msgstr ""
+
+#: templates/contacts.html:46
+msgid "Règles et accessoires indispensables"
+msgstr ""
+
+#: templates/contacts.html:47
+msgid "Méthodologie de montage"
+msgstr ""
+
+#: templates/contacts.html:48
+msgid "Mise en place des étais"
+msgstr ""
+
+#: templates/contacts.html:49
+msgid "Conseils pour le coulage du béton"
+msgstr ""
+
+#: templates/contacts.html:50
+msgid "Préconisations des méthodes de revêtements"
+msgstr ""
+
+#: templates/contacts.html:51
+msgid "Conseils sur les produits compatibles HQE, BBC et passifs"
+msgstr ""
+
+#: templates/contacts.html:52
+msgid "Certification ISODUR HOUSE"
+msgstr ""
+
+#: templates/contacts.html:56
+msgid "AVANTAGES DE LA FORMATION"
+msgstr ""
+
+#: templates/contacts.html:58
+msgid "Une formation et une assistance dédiées"
+msgstr ""
+
+#: templates/contacts.html:59
+msgid "Un démarrage de chantier en toute confiance"
+msgstr ""
+
+#: templates/contacts.html:60
+msgid "Un gain en temps et en efficacité considérable"
+msgstr ""
+
+#: templates/contacts.html:61
+msgid "Un montage rapide"
+msgstr ""
+
+#: templates/contacts.html:62
+msgid "Un temps libre préservé pour le second œuvre"
+msgstr ""
+
+#: templates/contacts.html:63
+msgid "Un délai de réalisation réduit"
+msgstr ""
+
+#: templates/contacts.html:64
+msgid "Un budget épargné"
+msgstr ""
+
+#: templates/contacts.html:69
+msgid ""
+"\n"
+"                    'Vous voulez vous inscrire à la formation ? Merci de "
+"remplir ce\n"
+"                    formulaire, nous prendrons contact avec vous le plus "
+"rapidement\n"
+"                    possible.'\n"
+"                "
+msgstr ""
+
+#: templates/contacts.html:90
+msgid "Send Message"
+msgstr ""
+
+#: templates/contacts_thanks.html:11
+msgid "Message Received"
+msgstr ""
+
+#: templates/contacts_thanks.html:13
+msgid "Go back to main page"
+msgstr ""
+
+#: templates/main/advantages.html:6
+msgid ""
+"\n"
+"                ISODUR HOUSE LE FUTURE EN<span> CONSTRUCTION</span>\n"
+"            "
+msgstr ""
+
+#: templates/main/advantages.html:11
+msgid ""
+"\n"
+"                Vous-voulez construire aujourd’hui une maison de de- main et "
+"investir à\n"
+"                long terme pour soi et les générations futures, une maison "
+"où il fait bon à\n"
+"                vivre avec un environnement sain, sécuritaire et "
+"confortable.\n"
+"                Aujourd’hui il faut penser différemment, les dernières "
+"années ont changé\n"
+"                notre façon de construire et nos préoccupations ont évolué.\n"
+"            "
+msgstr ""
+
+#: templates/main/advantages.html:20
+msgid ""
+"\n"
+"                La construction <cite> « ENERGETIQUE ANTISISMIQUE ET\n"
+"                L’ISOLATION »</cite> sont au cœur de ces préoccupations "
+"devenues\n"
+"                essentielles aujourd’hui et encore plus demain.\n"
+"            "
+msgstr ""
+
+#: templates/main/advantages.html:27
+msgid ""
+"\n"
+"                Le mode de construction des gros œuvres de votre maison "
+"constitue la\n"
+"                première décision d’une grande importance dans les choix de "
+"réalisation\n"
+"                de votre projet. Cette décision passe par l’adoption d’un "
+"système de\n"
+"                construction compétitif avec des matériaux ayant fait leurs "
+"preuves à\n"
+"                l’échelle internationale et ayant toutes les normes et "
+"garanties pour leur\n"
+"                application au Maroc\n"
+"            "
+msgstr ""
+
+#: templates/main/advantages.html:37
+msgid ""
+"\n"
+"                « Avec ISODUR HOUSE, vous économiserez\n"
+"                temps et argent en construisant des maisons\n"
+"                plus solides, plus durables et surtout plus\n"
+"                énergétiques »\n"
+"            "
+msgstr ""
+
+#: templates/main/advantages.html:51
+msgid "EXCELLENTE PERFORMANCE"
+msgstr ""
+
+#: templates/main/advantages.html:51
+msgid "THERMIQUE"
+msgstr ""
+
+#: templates/main/advantages.html:57
+msgid "DOUBLE ISOLATION"
+msgstr ""
+
+#: templates/main/advantages.html:57
+msgid "PHONIQUE"
+msgstr ""
+
+#: templates/main/advantages.html:63
+msgid "SÉCURITÉ ET DURABILITÉ"
+msgstr ""
+
+#: templates/main/advantages.html:63
+msgid "SUPÉRIEUR"
+msgstr ""
+
+#: templates/main/advantages.html:70
+msgid "RAPIDITE"
+msgstr ""
+
+#: templates/main/advantages.html:76
+msgid "ISODUR UN MUR QUI"
+msgstr ""
+
+#: templates/main/advantages.html:76
+msgid "RESPIRE"
+msgstr ""
+
+#: templates/main/advantages.html:82
+msgid "DIMINUTION DU RISQUE"
+msgstr ""
+
+#: templates/main/advantages.html:82
+msgid "DE FISSURES"
+msgstr ""
+
+#: templates/main/advantages.html:89
+msgid "RESISTANCE AU FEU"
+msgstr ""
+
+#: templates/main/advantages.html:89
+msgid "CLASSE M1"
+msgstr ""
+
+#: templates/main/advantages.html:95
+msgid "GAIN DE SURFACE HABITABLE"
+msgstr ""
+
+#: templates/main/advantages.html:101
+msgid "A L’ÉPREUVE SUR LES"
+msgstr ""
+
+#: templates/main/advantages.html:101
+msgid "RONGEURS"
+msgstr ""
+
+#: templates/main/advantages.html:106
+msgid "ISODUR ET LA SANTE"
+msgstr ""
+
+#: templates/main/advantages.html:111
+msgid "ECOLOGIE ET ECONOMIES"
+msgstr ""
+
+#: templates/main/advantages.html:111
+msgid "D’ENERGIE"
+msgstr ""
+
+#: templates/main/advantages.html:117
+msgid "LA FINITION SUR LES MURS"
+msgstr ""
+
+#: templates/main/advantages.html:118
+msgid "ISODUR N’A DE LIMITE QUE DANS"
+msgstr ""
+
+#: templates/main/advantages.html:119
+msgid "VOTRE IMAGINATION"
+msgstr ""
+
+#: templates/main/advantages.html:125
+msgid "LES ECONOMIE avec"
+msgstr ""
+
+#: templates/main/advantages.html:125
+msgid "ISODUR HOUSE"
+msgstr ""
+
+#: templates/main/advantages.html:131
+msgid "Q & R"
+msgstr ""
+
+#: templates/main/advantages.html:145
+msgid "DOUBLE ISOLATION RENFORCÉE U0,29 À U0,11"
+msgstr ""
+
+#: templates/main/advantages.html:148
+msgid ""
+"\n"
+"                            L’objectif principal de l’emploi du système "
+"ISODUR, c’est de permettre\n"
+"                            à toute construction neuve d’être très bien "
+"isolée. Pour cela il a fallu\n"
+"                            supprimer tous les ponts thermiques, cause "
+"principale des déperditions\n"
+"                            énergétiques. La combinaison de l’isolant en "
+"polystyrène et le béton\n"
+"                            produit facilement des murs, de l’empattement "
+"jusqu’au toit, solides et\n"
+"                            isolants de l’extérieur et de l’intérieur, sans "
+"espace d’air et permet la\n"
+"                            totale rupture des ponts thermiques.\n"
+"                        "
+msgstr ""
+
+#: templates/main/advantages.html:159
+#, python-format
+msgid ""
+"\n"
+"                            Un mur ISODUR permet de stocker l’énergie, en "
+"absorbant la\n"
+"                            chaleur ainsi que le froid, il permet de "
+"réaliser des bâtiments à très\n"
+"                            faible consommation énergétique et des économies "
+"jusqu’à 90 %% Et\n"
+"                            plus en cout d’énergie sur le chauffage et la "
+"climatisation, et ce grâce\n"
+"                            a sa performance et ses hautes capacités "
+"d’isolation qui permettent\n"
+"                            une faible déperdition thermique en hiver et "
+"offrent en été une\n"
+"                            protection contre la chaleur, bénéficiant ainsi "
+"d’une ambiance\n"
+"                            agréable toute l’année et procurant un cadre de "
+"vie beaucoup plus\n"
+"                            confortable et une économie à vie très "
+"remarquable sur votre facture\n"
+"                            d’électricité .\n"
+"                        "
+msgstr ""
+
+#: templates/main/advantages.html:173
+msgid ""
+"\n"
+"                            L’étude a été réalisée pour une épaisseur de mur "
+"de 25 cm, dont 15 cm\n"
+"                            de béton, 5cm d’isolation intérieure, 5cm "
+"d’isolation extérieure, réalisée\n"
+"                            à partir d’une température extérieure de -15°C/- "
+"10° C et d’une\n"
+"                            température intérieure de +19°C/20°C en hiver et "
+"avec une température\n"
+"                            extérieure de +55°C /45°C en été et d’une "
+"température intérieure de\n"
+"                            +20°C /21°C.\n"
+"                        "
+msgstr ""
+
+#: templates/main/advantages.html:183
+msgid ""
+"\n"
+"                            « Le système ISODUR permettent une faible\n"
+"                            déperdition thermique en hiver et offrent en été "
+"une\n"
+"                            protection contre la chaleur »\n"
+"                        "
+msgstr ""
+
+#: templates/main/advantages.html:204
+msgid "EXCELLENTE RÉSISTANCE AU BRUIT"
+msgstr ""
+
+#: templates/main/advantages.html:206
+msgid ""
+"\n"
+"                            Les Blocs de coffrage isolé ISODUR avec son "
+"noyau de béton entouré\n"
+"                            de chaque côté d’un polystyrène expansé, "
+"constitué une barrière efficace\n"
+"                            qui freine toute vibration de son venant de "
+"l’extérieur, et non seulement\n"
+"                            assure une ambiance sereine et confortable à "
+"l’intérieur de la maison,\n"
+"                            mais aussi de chaque chambre individuellement. "
+"Ce qui constitue un\n"
+"                            système de construction idéal pour les bâtiments "
+"à plusieurs logements\n"
+"                            collectifs, hôpitaux, bâtiments d’enseignement, "
+"hôtel, plateaux bureaux,\n"
+"                            discothèques, Pubs et restaurants.\n"
+"                        "
+msgstr ""
+
+#: templates/main/advantages.html:218
+msgid ""
+"\n"
+"                            « Construire avec ISODUR HOUSE c’est\n"
+"                            l’assurance d’un grand confort acoustique »\n"
+"                        "
+msgstr ""
+
+#: templates/main/advantages.html:224
+msgid "Valeurs :"
+msgstr ""
+
+#: templates/main/advantages.html:225
+msgid ""
+"\n"
+"                            Rw =52,3 dB pour les murs de séparation "
+"intérieure\n"
+"                            Valeurs : Rw = 45,1 dB pour les murs "
+"d’extérieurs\n"
+"                        "
+msgstr ""
+
+#: templates/main/advantages.html:245
+msgid "ANTI-SISMIQUES- ANTI-OURAGAN"
+msgstr ""
+
+#: templates/main/advantages.html:247
+msgid ""
+"\n"
+"                            ISODUR est un système qui permet d’obtenir une "
+"solidité accrue,\n"
+"                            supérieure à celle d’une construction "
+"traditionnelle, en effet les murs en\n"
+"                            coffrage isolé pour béton armé continu et "
+"homogène, sont idéaux pour\n"
+"                            répondre aux normes antisismiques les plus "
+"exigeantes. Une construction\n"
+"                            avec le système ISODUR peut résister à des vents "
+"dont la vitesse peut\n"
+"                            être supérieure à 350 KLM/H, même résistance en "
+"ce qui concerne les\n"
+"                            autres catastrophes naturelles tels que les "
+"ouragans et les tornades, et\n"
+"                            autres types de phénomènes météorologiques "
+"violents, chose qui fait la\n"
+"                            différence en matière de sécurité surtout avec "
+"les changements\n"
+"                            climatiques auquel nous devons faire face "
+"aujourd’hui mais aussi dans le\n"
+"                            futur.\n"
+"                        "
+msgstr ""
+
+#: templates/main/advantages.html:263
+msgid "AVIS TECHNIQUE EUROPÉEN"
+msgstr ""
+
+#: templates/main/advantages.html:266
+msgid "GARANTIE FABRIQUANT"
+msgstr ""
+
+#: templates/main/advantages.html:269
+msgid "ISO 9001"
+msgstr ""
+
+#: templates/main/advantages.html:272
+msgid "AVIS SOCOTEC"
+msgstr ""
+
+#: templates/main/advantages.html:275
+msgid "AVIS CSTB"
+msgstr ""
+
+#: templates/main/advantages.html:278
+msgid "AVIS TECNITAS"
+msgstr ""
+
+#: templates/main/advantages.html:298
+msgid ""
+"\n"
+"                            La légèreté du système ISODUR est "
+"impressionnante et affiche « un\n"
+"                            poids plume » 1 mètre linéaire de mur courant "
+"pèse 1 kg et les\n"
+"                            dimensions du bloc standard sont de 1,25 m de "
+"longueur et 30 cm de\n"
+"                            hauteur, ce qui permet un montage express.\n"
+"                        "
+msgstr ""
+
+#: templates/main/advantages.html:306
+msgid ""
+"\n"
+"                            Les blocs s’emboitent à sec, sans colle ni "
+"mortier, par rangs successifs\n"
+"                            jusqu’à la hauteur du mur souhaitée, une fois "
+"les murs montés grâce à\n"
+"                            une méthode très simple le remplissage et le "
+"coulage du béton à la\n"
+"                            pompe se fera à hauteur d’étage, n’oubliez pas "
+"qu’une fois le béton mis\n"
+"                            en place dans les coffrages, l’isolation est du "
+"coup terminé. Le noyau de\n"
+"                            béton ISODUR rend facile l’installation des "
+"portes et des fenêtres et\n"
+"                            voilà votre structure est prête à recevoir la "
+"finition. Le système de\n"
+"                            construction ISODUR coffrage isolé en béton armé "
+"permet une\n"
+"                            construction considérablement plus rapide (20m2/"
+"Heure) en toute\n"
+"                            sécurité. Permettant de réaliser un gain de "
+"temps significatif par rapport\n"
+"                            aux méthodes de constructions traditionnelles "
+"actuellement utilisées au\n"
+"                            Maroc.\n"
+"                        "
+msgstr ""
+
+#: templates/main/advantages.html:322
+msgid ""
+"\n"
+"                            Notre système de construction ISODUR, vous "
+"permettra non seulement\n"
+"                            de réduire le temps de travail et de rester dans "
+"les délais, mais aussi de\n"
+"                            maintenir votre budget avec une réduction des "
+"intérêts intercalaires grâce\n"
+"                            à une disponibilité rapide de votre maison.\n"
+"                        "
+msgstr ""
+
+#: templates/main/advantages.html:344
+msgid ""
+"\n"
+"                            La résistance à l’humidité est contrôlée par la "
+"haute densité du produit.\n"
+"                            Le polystyrène expansé à cellules fermées est "
+"capable d’absorber 125 ml\n"
+"                            d’humidité par m2, en hiver et d’en restituer "
+"trois fois plus en été, ce qui\n"
+"                            donne des murs parfaitement sains et secs.\n"
+"                        "
+msgstr ""
+
+#: templates/main/advantages.html:352
+msgid ""
+"\n"
+"                            Le polystyrène expansé à cellules fermées est "
+"même utilisé pour\n"
+"                            construire des quais flottants.\n"
+"                        "
+msgstr ""
+
+#: templates/main/advantages.html:358
+msgid ""
+"\n"
+"                            Tous les risques d’avoir l’apparition de "
+"moisissure à l’intérieur de votre\n"
+"                            habitation sont éliminés grâce au système ISODUR "
+"sur tout pour les\n"
+"                            bâtiments dans les villes côtières.\n"
+"                        "
+msgstr ""
+
+#: templates/main/advantages.html:364
+#, python-format
+msgid "Le système ISODUR absorbe moins que 2 %% d’humidité."
+msgstr ""
+
+#: templates/main/advantages.html:381
+msgid ""
+"\n"
+"                            Le béton armé PROTÉGÉ avec le système ISODUR, "
+"devient un produit\n"
+"                            inerte dans ce mur composite, ce qui élimine "
+"donc le risque possible de\n"
+"                            fissures dans les murs, contrairement à une "
+"maison traditionnelle qui nit\n"
+"                            toujours par bouger et fissurer.\n"
+"                        "
+msgstr ""
+
+#: templates/main/advantages.html:389
+msgid ""
+"\n"
+"                            Une construction avec le système ISODUR ne se "
+"déforme pas et ne se\n"
+"                            dégrade pas. Elle minimise donc les frais "
+"d’entretien au cours des\n"
+"                            années. La qualité de construction supérieure se "
+"traduira par une plus\n"
+"                            grande valeur de revente de l’immeuble.\n"
+"                        "
+msgstr ""
+
+#: templates/main/advantages.html:412
+msgid ""
+"\n"
+"                            Les murs ISODUR coffrage isolé en béton armé "
+"continu et de la mousse\n"
+"                            de polystyrène expansées d’une qualité auto-"
+"extinction, (self-\n"
+"                            extinguishing) ce que signifie que le matériel "
+"n’active pas la flamme. Les\n"
+"                            murs ISODUR ne contiennent pas de CFC ou de "
+"HCFC, ils ne dégagent\n"
+"                            donc pas de matière toxique. Le Béton contenu "
+"dans les coffrages a une\n"
+"                            résistance au feu de 3 heures et plus.\n"
+"                        "
+msgstr ""
+
+#: templates/main/advantages.html:422
+msgid ""
+"\n"
+"                            Lors d’un incendie, les dégâts sont grandement "
+"limités grâce du béton\n"
+"                            continu à l’intérieur des coffrages, cette "
+"stabilité structurelle réduit le\n"
+"                            risque d’effondrement du bâtiment\n"
+"                        "
+msgstr ""
+
+#: templates/main/advantages.html:444
+msgid ""
+"\n"
+"                            Aucun doublage pour les murs extérieurs n’est "
+"nécessaire, L’épaisseur\n"
+"                            des murs, isolation comprise, est de 25 cm ce "
+"qui permet un gain\n"
+"                            appréciable de surface habitable (3 à 5 m2 sur "
+"150m2).\n"
+"                        "
+msgstr ""
+
+#: templates/main/advantages.html:465
+msgid ""
+"\n"
+"                            ISODUR n’a aucun attrait pour les rongeurs, il "
+"ne c’est susceptible\n"
+"                            d’être choisi pour les rongeurs qui y peuvent "
+"s’en nourrir d’aucune\n"
+"                            façon. Les termites et creusent leurs galeries "
+"pour se mettre au chaud.\n"
+"                            Fourmies détestant le béton, elles préfèrent le "
+"bois.\n"
+"                        "
+msgstr ""
+
+#: templates/main/advantages.html:487
+msgid ""
+" \n"
+"                        Le polystyrène composant les éléments\n"
+"                        ISODUR, Est l’unique et seul matériau de\n"
+"                        construction qui ne dégage aucune radioactivité\n"
+"                    "
+msgstr ""
+
+#: templates/main/advantages.html:494
+msgid ""
+"\n"
+"                            Le polystyrène composant les éléments ISODUR est "
+"l’unique et seul\n"
+"                            matériau de construction qui ne dégage aucun "
+"rayonnement radioactif, ni\n"
+"                            rayonnement Alpha, Beta, ou Gamma, c’est un "
+"produit pur et neutre,\n"
+"                            sans additif chimique dangereux pour l’homme.\n"
+"                        "
+msgstr ""
+
+#: templates/main/advantages.html:502
+msgid ""
+"\n"
+"                            Le polystyrène composant les éléments répond "
+"également aux normes\n"
+"                            alimentaires très strictes, pour l’emballage des "
+"aliments.\n"
+"                        "
+msgstr ""
+
+#: templates/main/advantages.html:508
+msgid ""
+"\n"
+"                            Le système ISODUR ne comporte aucun risque "
+"sanitaire et ne favorise\n"
+"                            pas la croissance des moisissures, il garantie "
+"un environnement plus\n"
+"                            propre et plus sécuritaire, sur tout pour les "
+"personnes allergiques.\n"
+"                        "
+msgstr ""
+
+#: templates/main/advantages.html:530
+msgid ""
+"\n"
+"                            L’utilisation du système ISODUR permet de "
+"réaliser d’importantes\n"
+"                            économies d’énergie, de répondre parfaitement "
+"aux nouvelles\n"
+"                            réglementations au Maroc visant à réduire les "
+"émissions de CO2 et de\n"
+"                            contribuer ainsi à la protection de notre "
+"environnement.\n"
+"                        "
+msgstr ""
+
+#: templates/main/advantages.html:538
+msgid ""
+"\n"
+"                            ISODUR système c’est un matériau sain, neutre, "
+"qui permet de réduire\n"
+"                            vos besoins de chauffage et de climatisation. "
+"Par conséquent, tous vos\n"
+"                            rejets de gaz à effet de serre liés à la "
+"production de chaud ou de froid\n"
+"                            sont fortement réduits.\n"
+"                        "
+msgstr ""
+
+#: templates/main/advantages.html:546
+msgid ""
+"\n"
+"                            Le system ISODUR est vraiment « écologique » car "
+"il évite les pertes\n"
+"                            thermiques au lieu d’essayer de les compenser "
+"par des moyens de\n"
+"                            chauffage plus ou moins performants.\n"
+"                        "
+msgstr ""
+
+#: templates/main/advantages.html:553
+msgid ""
+"\n"
+"                            ISODUR HOUSE est une entreprise soucieuse de "
+"l’environnement\n"
+"                            Si votre choix s’est porté sur un modèle HQE, "
+"passive ou BBC, optez\n"
+"                            pour ISODUR HOUSE\n"
+"                        "
+msgstr ""
+
+#: templates/main/advantages.html:574
+msgid ""
+"\n"
+"                        Avec ISODUR on peut construire n’importe quel\n"
+"                        style ou model\n"
+"                         "
+msgstr ""
+
+#: templates/main/advantages.html:580
+msgid ""
+"\n"
+"                            Les murs ISODUR permettent la pose de tout type "
+"de finition extérieure\n"
+"                            comme intérieure et du sol au plafond, c’est un "
+"matériel qui laisse une\n"
+"                            totale liberté au constructeur.\n"
+"                        "
+msgstr ""
+
+#: templates/main/advantages.html:587
+msgid ""
+"\n"
+"                            Le client n’a pas à se soucier de choisir ses "
+"produits de finition intérieure\n"
+"                            ou extérieure, ISODUR s’adapte à tous types de "
+"finition\n"
+"                        "
+msgstr ""
+
+#: templates/main/advantages.html:591
+msgid ""
+"\n"
+"                            Brique, pierres, stucco, enduit, peinture, "
+"tadelakt, plafond en gypse,\n"
+"                            parquet, marbre, carrelage, ex...\n"
+"                        "
+msgstr ""
+
+#: templates/main/advantages.html:597
+msgid ""
+"\n"
+"                            La construction avec ISODUR HOUSE offre une "
+"infinité de possibilités\n"
+"                            architecturales, murcintres, plafonds en voute, "
+"planchers de grande\n"
+"                            portée et fenêtres de grande dimension ou de "
+"forme spéciale peuvent être\n"
+"                            intégrés à la création architecturale.\n"
+"                        "
+msgstr ""
+
+#: templates/main/advantages.html:620
+#, python-format
+msgid ""
+"jusqu’a 90 %% d’économie en besoin de chauffage et de climatisation a vie"
+msgstr ""
+
+#: templates/main/advantages.html:621
+msgid "Economie sur installation des climatiseurs et chauffages centrales"
+msgstr ""
+
+#: templates/main/advantages.html:622
+msgid "Economisé du temps et disponibilité rapide de votre maison"
+msgstr ""
+
+#: templates/main/advantages.html:623
+msgid "Gain sur loyer et intérêts intercalaires"
+msgstr ""
+
+#: templates/main/advantages.html:624
+msgid ""
+"\n"
+"                            Une construction avec ISODUR HOUSE ne se déforme "
+"pas et ne se\n"
+"                            dégrade pas (pas de fissures et pas de "
+"moisissure). Elle minimise donc\n"
+"                            les frais d’entretien au cours des années\n"
+"                        "
+msgstr ""
+
+#: templates/main/advantages.html:630
+msgid "Gain de surface habitable"
+msgstr ""
+
+#: templates/main/advantages.html:648
+msgid ""
+"\n"
+"                                Est-ce qu’il faut un architecte spécialisé "
+"ou un plant Différent pour une construction\n"
+"                                avec\n"
+"                                le\n"
+"                                système ISODUR ?\n"
+"                            "
+msgstr ""
+
+#: templates/main/advantages.html:657
+msgid ""
+"\n"
+"                            Non, la simplicité du système est très pratique "
+"pour\n"
+"                            n’importe\n"
+"                            quel\n"
+"                            architecte et les plans conventionnels peuvent "
+"être utilisés. De plus, tous\n"
+"                            les styles sont possibles\n"
+"                        "
+msgstr ""
+
+#: templates/main/advantages.html:667
+msgid ""
+"\n"
+"                                Y a t-il une limite au nombre d’étages ?\n"
+"                            "
+msgstr ""
+
+#: templates/main/advantages.html:673
+msgid ""
+"\n"
+"                            Le nombre d’étages ou la hauteur du bâtiment "
+"sont seulement\n"
+"                            limités par la conception structurelle et de la "
+"législation locale.\n"
+"                            Il n’y a pas de limite de hauteur. Un ingénieur "
+"en structure est, en règle\n"
+"                            générale, impliqué dans le design du bâtiment.\n"
+"                        "
+msgstr ""
+
+#: templates/main/advantages.html:682
+msgid ""
+"\n"
+"                                Comment sont installées les portes et "
+"fenêtres ?\n"
+"                            "
+msgstr ""
+
+#: templates/main/advantages.html:688
+msgid ""
+"\n"
+"                            Une fois le béton mis en place, les portes et "
+"fenêtres sont\n"
+"                            installées\n"
+"                            de façon conventionnelle à l’intérieur des faux "
+"cadres.\n"
+"                        "
+msgstr ""
+
+#: templates/main/advantages.html:696
+msgid ""
+"\n"
+"                                Est-ce que ISODUR est conforme aux standards "
+"de\n"
+"                                construction au Maroc ?\n"
+"                            "
+msgstr ""
+
+#: templates/main/advantages.html:703
+msgid "Oui. Il est même supérieur aux normes."
+msgstr ""
+
+#: templates/main/advantages.html:706
+msgid " Est-ce que le système ISODUR est-il un produit « vert»"
+msgstr ""
+
+#: templates/main/advantages.html:710
+#, python-format
+msgid ""
+"\n"
+"                            Oui. La méthode préconisée par les constructions "
+"utilisant les coffrages\n"
+"                            isolants ISODUR se veut des plus écologiques : "
+"le polystyrène ne\n"
+"                            contient aucun CFC ; les éléments de coffrage "
+"restent incorporés à la\n"
+"                            structure diminuant ainsi les rebuts de "
+"chantier ; l’utilisation noble et\n"
+"                            réduite du bois permet de protéger nos forêts. "
+"Tout rebut de coffrage\n"
+"                            isolant provenant du chantier est 100%% "
+"recyclable. Également, la faible\n"
+"                            consommation énergétique d’une construction "
+"ISODUR entraîne une\n"
+"                            diminution des émissions polluantes qui "
+"contribuent au réchauffement\n"
+"                            planétaire et causent d’autres problèmes "
+"environnementaux. Il ne s’agit\n"
+"                            là que de quelques-unes des raisons pour "
+"lesquelles ISODUR est un\n"
+"                            système innovateur respectant l’environnement.\n"
+"                        "
+msgstr ""
+
+#: templates/main/advantages.html:726
+msgid ""
+"\n"
+"                                Est-ce que je peux visiter une maison "
+"construite avec le système ISODUR HOUSE au Maroc ?\n"
+"                            "
+msgstr ""
+
+#: templates/main/advantages.html:732
+msgid ""
+"\n"
+"                            Oui, il vous su t de nous contactez par mail ou "
+"par téléphone un\n"
+"                            commercial aura le plaisir de vous faire visité "
+"notre projet pilote.\n"
+"                        "
+msgstr ""
+
+#: templates/main/map_main.html:4
+msgid "Projet réaliser dans le monde"
+msgstr ""
+
+#: templates/main/map_main.html:4
+msgid "par les blocs de coffrages"
+msgstr ""
+
+#: templates/main/map_main.html:8
+msgid "Photos galerie"
+msgstr ""
+
+#: templates/main/map_main.html:14
+msgid "Video galerie"
+msgstr ""
+
+#: templates/main/our-product.html:6
+msgid "Our"
+msgstr ""
+
+#: templates/main/our-product.html:6
+msgid "Produits"
+msgstr ""
+
+#: templates/main/our-product.html:13
+msgid "des blocs de coffrages"
+msgstr ""
+
+#: templates/main/our-product.html:15
+msgid ""
+"\n"
+"                    Nos coffrages isolants ISODUR HOUSE procurent aux "
+"architectes, dessinateurs,\n"
+"                    propriétaires et\n"
+"                "
+msgstr ""
+
+#: templates/main/our-product.html:26
+msgid "Plaque de polystyrene"
+msgstr ""
+
+#: templates/main/our-product.html:28
+msgid ""
+"\n"
+"                    Quelles que soient leur dimension ou leur épaisseur, les "
+"panneaux de\n"
+"                    polystyrène expansé peuvent\n"
+"                "
+msgstr ""
+
+#: templates/main/our-product.html:39 templates/products/product_3.html:9
+msgid "D’autre produit en polystyrene"
+msgstr ""
+
+#: templates/main/our-product.html:41
+msgid ""
+"\n"
+"                    Les blocs de polystyrène expansé ISODUR BOX sont "
+"disponibles pour\n"
+"                    différentes densités et sont\n"
+"                "
+msgstr ""
+
+#: templates/navbar.html:26 templates/white-header.html:26
+msgid "company"
+msgstr ""
+
+#: templates/navbar.html:29 templates/white-header.html:29
+msgid "produits"
+msgstr ""
+
+#: templates/navbar.html:32 templates/white-header.html:32
+msgid "advantage"
+msgstr ""
+
+#: templates/navbar.html:35 templates/white-header.html:35
+msgid "partner"
+msgstr ""
+
+#: templates/navbar.html:38 templates/white-header.html:38
+msgid "projects"
+msgstr ""
+
+#: templates/navbar.html:41 templates/white-header.html:41
+msgid "contact us"
+msgstr ""
+
+#: templates/products/product_1.html:9
+msgid "des blocs"
+msgstr ""
+
+#: templates/products/product_1.html:9
+msgid "de coffrages"
+msgstr ""
+
+#: templates/products/product_1.html:13
+msgid ""
+"\n"
+"                            Nos coffrages isolants ISODUR HOUSE procurent "
+"aux architectes, dessinateurs,\n"
+"                            propriétaires et contracteurs la liberté et la "
+"flexibilité de concevoir et construire\n"
+"                            tel qu'ils le veulent. ISODUR propose une gamme "
+"complète des blocs de\n"
+"                            coffrages et divers accessoires différents pour "
+"couvrir tous vos besoins en\n"
+"                            matière de construction.\n"
+"                        "
+msgstr ""
+
+#: templates/products/product_1.html:22
+msgid ""
+"\n"
+"                            Les blocs ISODUR vous offrons la réponse pour "
+"bénéficier d’une maison passive\n"
+"                            ou d’une maison à énergie positive est HQE.\n"
+"                        "
+msgstr ""
+
+#: templates/products/product_1.html:28
+msgid ""
+"\n"
+"                            Les matériaux ISODUR répondent d’ailleurs "
+"totalement aux nouvelles\n"
+"                            contraintes des réglementations thermiques au "
+"Maroc\n"
+"                        "
+msgstr ""
+
+#: templates/products/product_1.html:37 templates/products/product_2.html:57
+msgid "Blocks of"
+msgstr ""
+
+#: templates/products/product_1.html:39 templates/products/product_2.html:59
+msgid "ISODUR SYSTEM "
+msgstr ""
+
+#: templates/products/product_1.html:68
+msgid ""
+"LA DALLE COFFRANTE ISOLANTE ISODUR. La Dalle béton la plus résistante du "
+"marché"
+msgstr ""
+
+#: templates/products/product_1.html:74
+msgid "ISOLATION ET ETANCHEITE TOITURE TERRASSE"
+msgstr ""
+
+#: templates/products/product_1.html:77
+msgid "Absence de ponts thermiques"
+msgstr ""
+
+#: templates/products/product_1.html:80
+msgid "Solution d’étanchéité parfaite"
+msgstr ""
+
+#: templates/products/product_1.html:83
+msgid "Surcharge jusqu’à 1 000 kg / m²"
+msgstr ""
+
+#: templates/products/product_1.html:86
+msgid "Isolation des murs et acrotères en continu"
+msgstr ""
+
+#: templates/products/product_1.html:89
+msgid "PLANCHER HOURDIS ETAGE"
+msgstr ""
+
+#: templates/products/product_1.html:92
+msgid ""
+"Gestion des températures par niveau et par pièce, dissociation des parties "
+"jour et nuit de la maison"
+msgstr ""
+
+#: templates/products/product_1.html:95
+msgid "Facilite la pose de faux-plafonds, de gaines et de l’éclairage"
+msgstr ""
+
+#: templates/products/product_1.html:98
+msgid "Permet tous types de finition (frises, enduit projeté et BA13)"
+msgstr ""
+
+#: templates/products/product_1.html:101
+msgid "Facilite la création de réservations"
+msgstr ""
+
+#: templates/products/product_1.html:104
+msgid "ISOLATION VIDE SANITAIRE"
+msgstr ""
+
+#: templates/products/product_1.html:107
+msgid "Une véritable barrière thermique pour un confort inégalé"
+msgstr ""
+
+#: templates/products/product_1.html:110
+msgid ""
+"Pose sur radier ou sur fouilles en rigoles, réduction des délais, pas "
+"d’outillage spécifique, économies de matériaux"
+msgstr ""
+
+#: templates/products/product_1.html:113
+msgid ""
+"Adaptée aux zones sismiques, inondables, terrains argileux, dégâts miniers, …"
+msgstr ""
+
+#: templates/products/product_1.html:118
+msgid "- Légèreté du PSE."
+msgstr ""
+
+#: templates/products/product_1.html:121
+msgid ""
+"- Réduction du poids mort du plancher et donc augmentation de la portée des "
+"poutrelles."
+msgstr ""
+
+#: templates/products/product_1.html:124
+msgid "- Souplesse de la conception."
+msgstr ""
+
+#: templates/products/product_1.html:127
+msgid "- Performance thermique élevée."
+msgstr ""
+
+#: templates/products/product_1.html:130
+msgid "- Un des meilleurs rapports qualité thermique/prix."
+msgstr ""
+
+#: templates/products/product_1.html:133
+msgid "- Une di munition notable de la consommation dénergie."
+msgstr ""
+
+#: templates/products/product_1.html:136
+msgid "LE 4 EN 1"
+msgstr ""
+
+#: templates/products/product_1.html:138
+msgid ""
+"\n"
+"                            Avec les hourdis ISODUR en Polystyrène EPS, en "
+"une intervention simple, vous réalisez 4\n"
+"                            opérations complexes pour réaliser votre dalle "
+"béton !\n"
+"                        "
+msgstr ""
+
+#: templates/products/product_1.html:144
+msgid "Pose du coffrage"
+msgstr ""
+
+#: templates/products/product_1.html:145
+msgid "Pose de l’isolation"
+msgstr ""
+
+#: templates/products/product_1.html:146
+msgid "Etanchéité à l’air"
+msgstr ""
+
+#: templates/products/product_1.html:147
+msgid "Suppression des ponts thermiques"
+msgstr ""
+
+#: templates/products/product_1.html:149
+msgid "Simplifiez-vous la vie faites des économies"
+msgstr ""
+
+#: templates/products/product_1.html:150
+msgid "Simplement génial"
+msgstr ""
+
+#: templates/products/product_1.html:151
+msgid "Dalle ISODUR sur mesure :"
+msgstr ""
+
+#: templates/products/product_1.html:153
+msgid ""
+"\n"
+"                            Fabrication des hourdis sur mesure coupés a la "
+"longueur\n"
+"                            Les portées pouvant aller jusqu'à 8 mètre et "
+"plus.\n"
+"                        "
+msgstr ""
+
+#: templates/products/product_1.html:158
+msgid "La réduction de main d’œuvre est prioritaire sur un chantier :"
+msgstr ""
+
+#: templates/products/product_1.html:160
+msgid ""
+"\n"
+"                            Le temps de mise en œuvre est d’une rapidité "
+"inégalée.\n"
+"                            Hourdis + armatures métalliques 100 m2 posé en 1 "
+"heure\n"
+"                        "
+msgstr ""
+
+#: templates/products/product_2.html:9
+msgid "Plaque de"
+msgstr ""
+
+#: templates/products/product_2.html:9
+msgid "polystyrene"
+msgstr ""
+
+#: templates/products/product_2.html:13
+msgid ""
+"\n"
+"                            Quelles que soient leur dimension ou leur "
+"épaisseur, les panneaux de\n"
+"                            polystyrène expansé peuvent servir à l’isolation "
+"des murs, des toitures, des\n"
+"                            fondations et des bâtiments lourds, peu importe "
+"la structure ou le fini\n"
+"                            extérieur.\n"
+"                        "
+msgstr ""
+
+#: templates/products/product_2.html:21
+msgid ""
+"\n"
+"                            C’est un matériau rigide et léger, facile à "
+"manipuler. Il offre une efficacité\n"
+"                            énergétique de longue durée de vie qui ne "
+"s’altère pas avec le temps, une\n"
+"                            valeur isolante permanente.\n"
+"                        "
+msgstr ""
+
+#: templates/products/product_2.html:28
+msgid ""
+"\n"
+"                            De tous les types d’isolants rigides offerts sur "
+"le marché, le polystyrène\n"
+"                            expansé se démarque par son excellent rapport "
+"valeur R/Prix.\n"
+"                        "
+msgstr ""
+
+#: templates/products/product_2.html:34
+msgid ""
+"\n"
+"                            Parfaits pour des applications résidentielles, "
+"commerciales et d’entreposage à\n"
+"                            froid, les panneaux de polystyrène expansé "
+"ISODUR offerts une gamme\n"
+"                            d’épaisseurs et de densités des plus variées.\n"
+"                        "
+msgstr ""
+
+#: templates/products/product_2.html:41
+msgid "Abondant sur le marché"
+msgstr ""
+
+#: templates/products/product_2.html:42
+msgid "Bonnes performances thermiques"
+msgstr ""
+
+#: templates/products/product_2.html:43
+msgid "Léger et facile à travailler"
+msgstr ""
+
+#: templates/products/product_2.html:44
+msgid "Insensible à l’humidité"
+msgstr ""
+
+#: templates/products/product_2.html:45
+msgid "Perméable à la vapeur d’eau"
+msgstr ""
+
+#: templates/products/product_2.html:46
+msgid "Prix abordable"
+msgstr ""
+
+#: templates/products/product_2.html:47
+msgid "Conductivité thermique"
+msgstr ""
+
+#: templates/products/product_2.html:48
+msgid "Comportement à l’eau"
+msgstr ""
+
+#: templates/products/product_2.html:49
+msgid "Résistance mécanique"
+msgstr ""
+
+#: templates/products/product_2.html:50
+msgid "Réaction au feu"
+msgstr ""
+
+#: templates/products/product_2.html:51
+msgid "Stabilité dimensionnelle"
+msgstr ""
+
+#: templates/products/product_3.html:10
+msgid "fabriqué par ISODUR"
+msgstr ""
+
+#: templates/products/product_3.html:13
+msgid "Bloc de polystyrène pour remblais et route"
+msgstr ""
+
+#: templates/products/product_3.html:15
+msgid ""
+"\n"
+"                                Les blocs de polystyrène expansé ISODUR BOX "
+"sont disponibles pour\n"
+"                                différentes densités et sont utilisés autant "
+"pour la construction de remblais que\n"
+"                                pour l'isolation de route.\n"
+"                            "
+msgstr ""
+
+#: templates/products/product_3.html:22
+msgid ""
+"\n"
+"                                Les blocs ISODUR BOX sont légers et sont "
+"fabriqués en plusieurs dimensions\n"
+"                                pour répondre à différents types "
+"d'applications et de budgets. La grande\n"
+"                                résistance des blocs de polystyrène aux "
+"variations de température en fait un\n"
+"                                produit de choix pour l’isolation des routes "
+"et la construction de remblais. C’est\n"
+"                                pour ces raisons que les blocs ISODUR BOX "
+"sont de plus en plus intégrés aux\n"
+"                                ouvrages de génie civil et d’aménagement "
+"paysager.\n"
+"                            "
+msgstr ""
+
+#: templates/products/product_3.html:32
+msgid ""
+"\n"
+"                                L'expertise développée par ISODUR au cours "
+"des 10 dernières années vous\n"
+"                                permet d'optimiser l'intégration des "
+"produits ISODUR dans vos projets, et ce,\n"
+"                                dans des délais répondant à vos besoins.\n"
+"                            "
+msgstr ""
+
+#: templates/products/product_3.html:47
+msgid "PANNEAU ISOLANT MOULÉ POUR PLANCHER "
+msgstr ""
+
+#: templates/products/product_3.html:48
+msgid "CHAUFFANT ISODUR-HYDRO :"
+msgstr ""
+
+#: templates/products/product_3.html:50
+msgid ""
+"\n"
+"                                ISODUR-HYDRO est un panneau isolant avec un "
+"design d'ancrages multidirectionnels pour\n"
+"                                l'installation de tuyaux chauffants "
+"hydroniques (eau chaude). C'est un produit 2 en\n"
+"                                1 qui permet d'isoler sous la dalle de béton "
+"et de faciliter la pose de tuyaux de 1/2\n"
+"                                pouce.\n"
+"                            "
+msgstr ""
+
+#: templates/products/product_3.html:59
+msgid ""
+"\n"
+"                                ISODUR-HYDRO est un panneau isolant moulé "
+"individuellement de 4 pieds x 4 pieds (1219 mm\n"
+"                                x 1219 mm). Il est emboitable et chevauché "
+"de 1 pouce (25 mm) sur tous les côtés.\n"
+"                            "
+msgstr ""
+
+#: templates/products/product_3.html:66
+#, python-format
+msgid ""
+"\n"
+"                                Épaisseurs de 2 1/2 pouces (64 mm) et "
+"4 pouces (102 mm)\n"
+"                                Facteurs R de R-10 et R-16\n"
+"                                Les tuyaux peuvent être fixés sans attache "
+"dans le sens désiré\n"
+"                                Plus flexible qu'un panneau coupé ou "
+"extrudé\n"
+"                                100%% recyclable\n"
+"                                Peut contribuer à l'obtention de points dans "
+"un projet LEED®\n"
+"                            "
+msgstr ""
+
+#: templates/products/product_3.html:77
+msgid ""
+"\n"
+"                                ISODUR-HYDRO peut être utilisé pour "
+"isoler sous la dalle de béton. Il répond aux\n"
+"                                différents besoins d’isolation des "
+"constructions résidentielles, commerciales,\n"
+"                                industrielles et institutionnelles.\n"
+"                            "
+msgstr ""
+
+#: templates/products/product_3.html:91
+msgid "Caisse isotherme "
+msgstr ""
+
+#: templates/products/product_3.html:93
+msgid ""
+"\n"
+"                                ISODUR propose des thermo-emballages en "
+"polystyrène expansé, dans les secteurs\n"
+"                                pharmaceutique et agroalimentaire, "
+"restauration, traiteur pour les produits sensibles à\n"
+"                                la chaleur ou au froid qu'il faut stocker et "
+"transporter en respectant une certaine\n"
+"                                plage de températures.\n"
+"                            "
+msgstr ""
+
+#: templates/products/product_3.html:101
+msgid ""
+"\n"
+"                                En plus d'une sélection de 10 emballages "
+"standards et modulables différents, nous\n"
+"                                offrons aussi des thermo-emballages sur "
+"mesure, conçus pour répondre parfaitement aux\n"
+"                                besoins de nos clients.\n"
+"                            "
+msgstr ""
+
+#: templates/products/product_3.html:108
+msgid ""
+"\n"
+"                                Vous pouvez faire confiance à notre longue "
+"expérience et à notre compétence en matière\n"
+"                                de développement.\n"
+"                            "
+msgstr ""
+
+#: templates/project_list.html:9
+msgid ""
+"\n"
+"                    ISODUR HOUSE présente sa troisième version du bloc de "
+"coffrage isolant, créé pour\n"
+"                    fournir un service unique à ceux qui veulent construire "
+"en utilisant des systèmes de\n"
+"                    construction de qualité supérieure. Qu’il s’agisse de "
+"logements ou d’unités industrielles,\n"
+"                    d’écoles ou d’hôtels ...\n"
+"                "
+msgstr ""
+
+#: templates/project_list.html:17
+msgid ""
+"\n"
+"                    Nous avons les compétences pour conseiller, planifier, "
+"approvisionner, construire et\n"
+"                    apporter de l’assistance technique au stade de la "
+"planification, et pour la fourniture de\n"
+"                    matériaux divers et de la main-d’oeuvre spécialisée.\n"
+"                "
+msgstr ""
+
+#: templates/project_list.html:24
+msgid ""
+"\n"
+"                    Si la réduction des coûts et l’amélioration de la "
+"qualité sont vos objectifs, entrez en\n"
+"                    contact avec ISODUR HOUSE. La performance à votre "
+"service et à celui de\n"
+"                    l’environnement.\n"
+"                "
+msgstr ""
+
+#: templates/project_list.html:30
+msgid "AVEC ISODUR ON PEUT CONSTRUIRE N’IMPORTE QUEL ARCHITECTURE"
+msgstr ""
+
+#: templates/project_list.html:32
+msgid "APPARTEMENTS"
+msgstr ""
+
+#: templates/project_list.html:33
+msgid "VILLAS"
+msgstr ""
+
+#: templates/project_list.html:34
+msgid "LOGEMENT SOCIAL"
+msgstr ""
+
+#: templates/project_list.html:35
+msgid "CONSTRUCTION INDUSTRIELLE"
+msgstr ""
+
+#: templates/project_list.html:36
+msgid "BATIMENT AGRICOLE OU HANGAR"
+msgstr ""
+
+#: templates/project_list.html:37 templates/project_list.html:38
+msgid "HOPITAUX ET ECOLES"
+msgstr ""
+
+#: templates/project_list.html:39
+msgid "PROJET TOURISTIQUE COMMERCIALE ET MALL"
+msgstr ""
+
+#: templates/project_list.html:40
+msgid "LES SOUS-SOL ET PISCINES"
+msgstr ""
