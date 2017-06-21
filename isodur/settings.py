@@ -140,16 +140,15 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-STATIC_ROOT = os.path.join(os.path.dirname(BASE_DIR), "static_env", "static_root")
+STATIC_ROOT = os.path.join(BASE_DIR, "collected_files", "static_root")
 
 STATICFILES_DIRS = [
-    os.path.join(BASE_DIR, "static")
+        os.path.join(BASE_DIR, "static")
 ]
 
 MEDIA_URL = '/media/'
 
-MEDIA_ROOT = os.path.join(os.path.dirname(BASE_DIR), 'static_env', 'media_root')
-
+MEDIA_ROOT = os.path.join(BASE_DIR, 'collected_files', 'media_root')
 
 CAPTCHA_BACKGROUND_COLOR = '#c9d8e4'
 

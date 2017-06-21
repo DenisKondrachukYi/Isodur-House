@@ -14,6 +14,7 @@ tests/.coverage
 build/
 tests/report/
 static
+collected_files
 iso-env
 npm-debug.log
 yarn.lock
