@@ -300,6 +300,9 @@
 }
 
 @media (min-width: 1500px) {
+  .body-wrapper {
+  width: 100%!important;
+}
   .header-banner-icon {
   display: block;
   z-index: 99999;
