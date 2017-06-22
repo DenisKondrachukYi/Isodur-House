@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-04-13 12:48+0000\n"
+"POT-Creation-Date: 2017-06-21 11:14+0000\n"
 "PO-Revision-Date: 2017-04-09 15:28+0000\n"
 "Last-Translator: b'  <>'\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -27,51 +27,84 @@ msgstr ""
 msgid "English"
 msgstr ""
 
-#: templates/company.html:10
-msgid "ISODUR HOUSE est une société fondée en l’an 2010,"
+#: templates/company.html:16
+msgid ""
+"\n"
+"                    'ISODUR HOUSE est une societe fondee en l'an 2009 la "
+"sodete est engagee clans le developpement de la\n"
+"                    construction solide, pratique et durable du gros euvre, "
+"respectueux de l'environnement, ISODUR HOU\n"
+"                    SE Beneficie d'une experience de longue date, et a "
+"initie son expansion sur le marche africain de\n"
+"                    construction par sa presence sur le marche marocain.'\n"
+"                "
 msgstr ""
 
-#: templates/company.html:13
+#: templates/company.html:24
+msgid ""
+"\n"
+"                    ISODUR HOU SE presente sa troisieme version du bloc de "
+"coffrage isolant, cree pour fournir un\n"
+"                    service unique a ceux qui veulent construire en "
+"utilisant des systemes de construction de qualite\n"
+"                    superieure. Qu1I s'agisse de logements ou d'unites "
+"industrielles, d'ecoles OU d'hotels ...\n"
+"                "
+msgstr ""
+
+#: templates/company.html:31
+msgid ""
+"\n"
+"                    Nous avons les competences pour conseiller, planifier, "
+"approvisionner, construire et apporter de\n"
+"                    !'assistance technique au stade de la planification, et "
+"pour la fourniture de materiaux divers et de\n"
+"                    la main-d'oeuvre spedalisee.\n"
+"                "
+msgstr ""
+
+#: templates/company.html:38
+msgid ""
+"\n"
+"                    Si la reduction des coats et !'amelioration de la "
+"qualite sont vos objectifs, entrez en contact avec\n"
+"                    ISO DUR HOUSE. La performance a votre service et a celui "
+"de l'environnement.\n"
+"                "
+msgstr ""
+
+#: templates/company.html:44
 msgid ""
 "« La société est engagée dans le développement de la\n"
-"                    construction solide, pratique et durable,<br> "
-"respectueux de\n"
-"                    l’environnement. » (Le President de la societe)\n"
+"                    construction solide,\n"
 "                "
 msgstr ""
 
-#: templates/company.html:19
+#: templates/company.html:48
+msgid "pratique et durable, respectueux de l’environnement."
+msgstr ""
+
+#: templates/company.html:50
+msgid "(Le President de la societe)"
+msgstr ""
+
+#: templates/company.html:59
 msgid ""
 "\n"
-"                    'ISODUR HOUSE Bénéfcie d’une expérience de longue date, "
-"et a initié son\n"
-"                    expansion sur le marché africain de construction par sa "
-"présence sur le marché\n"
-"                    marocain.'\n"
-"                "
+"                        POURQUOI CHOISIR\n"
+"                    "
 msgstr ""
 
-#: templates/company.html:26
-msgid ""
-"\n"
-"                    Nous avons déjà réalisé d’importants projets et effectué "
-"des missions dans le monde\n"
-"                    entier (comme l’Amérique du Nord, Europe, Asie de l’Est "
-"et Moyen-Orient) ce qui rend\n"
-"                    l’entreprise plus solide et plus performante sur le "
-"marché de la construction.\n"
-"                "
+#: templates/company.html:62 templates/company.html:111
+#: templates/products/product_2.html:66
+msgid "ISODUR"
 msgstr ""
 
-#: templates/company.html:33
-msgid "POURQUOI CHOISIR ISODUR ???"
-msgstr ""
-
-#: templates/company.html:34
+#: templates/company.html:64
 msgid "LE PRINCIPE EST SIMPLE"
 msgstr ""
 
-#: templates/company.html:40
+#: templates/company.html:70
 msgid ""
 "\n"
 "                        Les coffrages ISODUR sont empilés, armés avec de "
@@ -82,7 +115,7 @@ msgid ""
 "                    "
 msgstr ""
 
-#: templates/company.html:47
+#: templates/company.html:77
 msgid ""
 "\n"
 "                        Les coffrages ISODUR sont offerts en un éventail de "
@@ -96,17 +129,17 @@ msgid ""
 "                    "
 msgstr ""
 
-#: templates/company.html:55
+#: templates/company.html:85
 msgid "INNOVATION"
 msgstr ""
 
-#: templates/company.html:56
+#: templates/company.html:86
 msgid ""
 "Les coffrages isolés pour béton ISODUR fournissent de nombreux avantages "
 "lors de la construction."
 msgstr ""
 
-#: templates/company.html:58
+#: templates/company.html:88
 msgid ""
 "\n"
 "                        La polyvalence et la facilité d'installation des "
@@ -118,11 +151,11 @@ msgid ""
 "                    "
 msgstr ""
 
-#: templates/company.html:64
+#: templates/company.html:94
 msgid "ÉTAPES DE CONSTRUCTION 6 EN 1"
 msgstr ""
 
-#: templates/company.html:66
+#: templates/company.html:96
 msgid ""
 "\n"
 "                        Regrouper six éléments muraux en un seul produit "
@@ -133,11 +166,14 @@ msgid ""
 "                    "
 msgstr ""
 
-#: templates/company.html:72
-msgid "À QUOI VOUS POUVEZ VOUS ATTENDRE DE ISODUR ???"
+#: templates/company.html:108
+msgid ""
+"\n"
+"                        À QUOI VOUS POUVEZ VOUS ATTENDRE DE\n"
+"                    "
 msgstr ""
 
-#: templates/company.html:74
+#: templates/company.html:114
 #, python-format
 msgid ""
 "\n"
@@ -149,7 +185,7 @@ msgid ""
 "                    "
 msgstr ""
 
-#: templates/company.html:81
+#: templates/company.html:121
 msgid ""
 "\n"
 "                        ISODUR se targue de vous fournir le meilleur soutien "
@@ -338,9 +374,9 @@ msgstr ""
 #: templates/main/advantages.html:20
 msgid ""
 "\n"
-"                La construction <cite> « ENERGETIQUE ANTISISMIQUE ET\n"
-"                L’ISOLATION »</cite> sont au cœur de ces préoccupations "
-"devenues\n"
+"                La construction <cite> « ENERGETIQUE ANTISISMIQUE ET "
+"L’ISOLATION »</cite> sont au cœur de ces\n"
+"                préoccupations devenues\n"
 "                essentielles aujourd’hui et encore plus demain.\n"
 "            "
 msgstr ""
@@ -362,121 +398,121 @@ msgid ""
 "            "
 msgstr ""
 
-#: templates/main/advantages.html:37
+#: templates/main/advantages.html:36
 msgid ""
 "\n"
-"                « Avec ISODUR HOUSE, vous économiserez\n"
-"                temps et argent en construisant des maisons\n"
-"                plus solides, plus durables et surtout plus\n"
-"                énergétiques »\n"
-"            "
+"            « Avec ISODUR HOUSE, vous économiserez temps et argent en "
+"construisant\n"
+"            des maisonsplus solides, plus durables et\n"
+"            surtout plus énergétiques »\n"
+"        "
 msgstr ""
 
-#: templates/main/advantages.html:51
+#: templates/main/advantages.html:48
 msgid "EXCELLENTE PERFORMANCE"
 msgstr ""
 
-#: templates/main/advantages.html:51
+#: templates/main/advantages.html:48
 msgid "THERMIQUE"
 msgstr ""
 
-#: templates/main/advantages.html:57
+#: templates/main/advantages.html:54
 msgid "DOUBLE ISOLATION"
 msgstr ""
 
-#: templates/main/advantages.html:57
+#: templates/main/advantages.html:54
 msgid "PHONIQUE"
 msgstr ""
 
-#: templates/main/advantages.html:63
+#: templates/main/advantages.html:60
 msgid "SÉCURITÉ ET DURABILITÉ"
 msgstr ""
 
-#: templates/main/advantages.html:63
+#: templates/main/advantages.html:60
 msgid "SUPÉRIEUR"
 msgstr ""
 
-#: templates/main/advantages.html:70
+#: templates/main/advantages.html:67
 msgid "RAPIDITE"
 msgstr ""
 
-#: templates/main/advantages.html:76
+#: templates/main/advantages.html:73
 msgid "ISODUR UN MUR QUI"
 msgstr ""
 
-#: templates/main/advantages.html:76
+#: templates/main/advantages.html:73
 msgid "RESPIRE"
 msgstr ""
 
-#: templates/main/advantages.html:82
+#: templates/main/advantages.html:79
 msgid "DIMINUTION DU RISQUE"
 msgstr ""
 
-#: templates/main/advantages.html:82
+#: templates/main/advantages.html:79
 msgid "DE FISSURES"
 msgstr ""
 
-#: templates/main/advantages.html:89
+#: templates/main/advantages.html:86
 msgid "RESISTANCE AU FEU"
 msgstr ""
 
-#: templates/main/advantages.html:89
+#: templates/main/advantages.html:86
 msgid "CLASSE M1"
 msgstr ""
 
-#: templates/main/advantages.html:95
+#: templates/main/advantages.html:92
 msgid "GAIN DE SURFACE HABITABLE"
 msgstr ""
 
-#: templates/main/advantages.html:101
+#: templates/main/advantages.html:98
 msgid "A L’ÉPREUVE SUR LES"
 msgstr ""
 
-#: templates/main/advantages.html:101
+#: templates/main/advantages.html:98
 msgid "RONGEURS"
 msgstr ""
 
-#: templates/main/advantages.html:106
+#: templates/main/advantages.html:103
 msgid "ISODUR ET LA SANTE"
 msgstr ""
 
-#: templates/main/advantages.html:111
+#: templates/main/advantages.html:108
 msgid "ECOLOGIE ET ECONOMIES"
 msgstr ""
 
-#: templates/main/advantages.html:111
+#: templates/main/advantages.html:108
 msgid "D’ENERGIE"
 msgstr ""
 
-#: templates/main/advantages.html:117
+#: templates/main/advantages.html:114
 msgid "LA FINITION SUR LES MURS"
 msgstr ""
 
-#: templates/main/advantages.html:118
+#: templates/main/advantages.html:115
 msgid "ISODUR N’A DE LIMITE QUE DANS"
 msgstr ""
 
-#: templates/main/advantages.html:119
+#: templates/main/advantages.html:116
 msgid "VOTRE IMAGINATION"
 msgstr ""
 
-#: templates/main/advantages.html:125
+#: templates/main/advantages.html:122
 msgid "LES ECONOMIE avec"
 msgstr ""
 
-#: templates/main/advantages.html:125
+#: templates/main/advantages.html:122
 msgid "ISODUR HOUSE"
 msgstr ""
 
-#: templates/main/advantages.html:131
+#: templates/main/advantages.html:128
 msgid "Q & R"
 msgstr ""
 
-#: templates/main/advantages.html:145
+#: templates/main/advantages.html:142
 msgid "DOUBLE ISOLATION RENFORCÉE U0,29 À U0,11"
 msgstr ""
 
-#: templates/main/advantages.html:148
+#: templates/main/advantages.html:145
 msgid ""
 "\n"
 "                            L’objectif principal de l’emploi du système "
@@ -495,7 +531,7 @@ msgid ""
 "                        "
 msgstr ""
 
-#: templates/main/advantages.html:159
+#: templates/main/advantages.html:156
 #, python-format
 msgid ""
 "\n"
@@ -521,7 +557,7 @@ msgid ""
 "                        "
 msgstr ""
 
-#: templates/main/advantages.html:173
+#: templates/main/advantages.html:170
 msgid ""
 "\n"
 "                            L’étude a été réalisée pour une épaisseur de mur "
@@ -538,7 +574,7 @@ msgid ""
 "                        "
 msgstr ""
 
-#: templates/main/advantages.html:183
+#: templates/main/advantages.html:180
 msgid ""
 "\n"
 "                            « Le système ISODUR permettent une faible\n"
@@ -548,11 +584,11 @@ msgid ""
 "                        "
 msgstr ""
 
-#: templates/main/advantages.html:204
+#: templates/main/advantages.html:202
 msgid "EXCELLENTE RÉSISTANCE AU BRUIT"
 msgstr ""
 
-#: templates/main/advantages.html:206
+#: templates/main/advantages.html:204
 msgid ""
 "\n"
 "                            Les Blocs de coffrage isolé ISODUR avec son "
@@ -573,7 +609,7 @@ msgid ""
 "                        "
 msgstr ""
 
-#: templates/main/advantages.html:218
+#: templates/main/advantages.html:216
 msgid ""
 "\n"
 "                            « Construire avec ISODUR HOUSE c’est\n"
@@ -581,11 +617,11 @@ msgid ""
 "                        "
 msgstr ""
 
-#: templates/main/advantages.html:224
+#: templates/main/advantages.html:222
 msgid "Valeurs :"
 msgstr ""
 
-#: templates/main/advantages.html:225
+#: templates/main/advantages.html:223
 msgid ""
 "\n"
 "                            Rw =52,3 dB pour les murs de séparation "
@@ -595,11 +631,11 @@ msgid ""
 "                        "
 msgstr ""
 
-#: templates/main/advantages.html:245
+#: templates/main/advantages.html:243
 msgid "ANTI-SISMIQUES- ANTI-OURAGAN"
 msgstr ""
 
-#: templates/main/advantages.html:247
+#: templates/main/advantages.html:245
 msgid ""
 "\n"
 "                            ISODUR est un système qui permet d’obtenir une "
@@ -626,31 +662,31 @@ msgid ""
 "                        "
 msgstr ""
 
-#: templates/main/advantages.html:263
+#: templates/main/advantages.html:261
 msgid "AVIS TECHNIQUE EUROPÉEN"
 msgstr ""
 
-#: templates/main/advantages.html:266
+#: templates/main/advantages.html:264
 msgid "GARANTIE FABRIQUANT"
 msgstr ""
 
-#: templates/main/advantages.html:269
+#: templates/main/advantages.html:267
 msgid "ISO 9001"
 msgstr ""
 
-#: templates/main/advantages.html:272
+#: templates/main/advantages.html:270
 msgid "AVIS SOCOTEC"
 msgstr ""
 
-#: templates/main/advantages.html:275
+#: templates/main/advantages.html:273
 msgid "AVIS CSTB"
 msgstr ""
 
-#: templates/main/advantages.html:278
+#: templates/main/advantages.html:276
 msgid "AVIS TECNITAS"
 msgstr ""
 
-#: templates/main/advantages.html:298
+#: templates/main/advantages.html:296
 msgid ""
 "\n"
 "                            La légèreté du système ISODUR est "
@@ -663,7 +699,7 @@ msgid ""
 "                        "
 msgstr ""
 
-#: templates/main/advantages.html:306
+#: templates/main/advantages.html:304
 msgid ""
 "\n"
 "                            Les blocs s’emboitent à sec, sans colle ni "
@@ -692,7 +728,7 @@ msgid ""
 "                        "
 msgstr ""
 
-#: templates/main/advantages.html:322
+#: templates/main/advantages.html:320
 msgid ""
 "\n"
 "                            Notre système de construction ISODUR, vous "
@@ -705,7 +741,7 @@ msgid ""
 "                        "
 msgstr ""
 
-#: templates/main/advantages.html:344
+#: templates/main/advantages.html:342
 msgid ""
 "\n"
 "                            La résistance à l’humidité est contrôlée par la "
@@ -718,7 +754,7 @@ msgid ""
 "                        "
 msgstr ""
 
-#: templates/main/advantages.html:352
+#: templates/main/advantages.html:350
 msgid ""
 "\n"
 "                            Le polystyrène expansé à cellules fermées est "
@@ -727,7 +763,7 @@ msgid ""
 "                        "
 msgstr ""
 
-#: templates/main/advantages.html:358
+#: templates/main/advantages.html:356
 msgid ""
 "\n"
 "                            Tous les risques d’avoir l’apparition de "
@@ -738,12 +774,12 @@ msgid ""
 "                        "
 msgstr ""
 
-#: templates/main/advantages.html:364
+#: templates/main/advantages.html:362
 #, python-format
 msgid "Le système ISODUR absorbe moins que 2 %% d’humidité."
 msgstr ""
 
-#: templates/main/advantages.html:381
+#: templates/main/advantages.html:379
 msgid ""
 "\n"
 "                            Le béton armé PROTÉGÉ avec le système ISODUR, "
@@ -756,7 +792,7 @@ msgid ""
 "                        "
 msgstr ""
 
-#: templates/main/advantages.html:389
+#: templates/main/advantages.html:387
 msgid ""
 "\n"
 "                            Une construction avec le système ISODUR ne se "
@@ -769,7 +805,7 @@ msgid ""
 "                        "
 msgstr ""
 
-#: templates/main/advantages.html:412
+#: templates/main/advantages.html:410
 msgid ""
 "\n"
 "                            Les murs ISODUR coffrage isolé en béton armé "
@@ -786,7 +822,7 @@ msgid ""
 "                        "
 msgstr ""
 
-#: templates/main/advantages.html:422
+#: templates/main/advantages.html:420
 msgid ""
 "\n"
 "                            Lors d’un incendie, les dégâts sont grandement "
@@ -797,7 +833,7 @@ msgid ""
 "                        "
 msgstr ""
 
-#: templates/main/advantages.html:444
+#: templates/main/advantages.html:442
 msgid ""
 "\n"
 "                            Aucun doublage pour les murs extérieurs n’est "
@@ -809,7 +845,7 @@ msgid ""
 "                        "
 msgstr ""
 
-#: templates/main/advantages.html:465
+#: templates/main/advantages.html:463
 msgid ""
 "\n"
 "                            ISODUR n’a aucun attrait pour les rongeurs, il "
@@ -823,7 +859,7 @@ msgid ""
 "                        "
 msgstr ""
 
-#: templates/main/advantages.html:487
+#: templates/main/advantages.html:485
 msgid ""
 " \n"
 "                        Le polystyrène composant les éléments\n"
@@ -832,7 +868,7 @@ msgid ""
 "                    "
 msgstr ""
 
-#: templates/main/advantages.html:494
+#: templates/main/advantages.html:492
 msgid ""
 "\n"
 "                            Le polystyrène composant les éléments ISODUR est "
@@ -845,7 +881,7 @@ msgid ""
 "                        "
 msgstr ""
 
-#: templates/main/advantages.html:502
+#: templates/main/advantages.html:500
 msgid ""
 "\n"
 "                            Le polystyrène composant les éléments répond "
@@ -855,7 +891,7 @@ msgid ""
 "                        "
 msgstr ""
 
-#: templates/main/advantages.html:508
+#: templates/main/advantages.html:506
 msgid ""
 "\n"
 "                            Le système ISODUR ne comporte aucun risque "
@@ -867,7 +903,7 @@ msgid ""
 "                        "
 msgstr ""
 
-#: templates/main/advantages.html:530
+#: templates/main/advantages.html:528
 msgid ""
 "\n"
 "                            L’utilisation du système ISODUR permet de "
@@ -881,7 +917,7 @@ msgid ""
 "                        "
 msgstr ""
 
-#: templates/main/advantages.html:538
+#: templates/main/advantages.html:536
 msgid ""
 "\n"
 "                            ISODUR système c’est un matériau sain, neutre, "
@@ -894,7 +930,7 @@ msgid ""
 "                        "
 msgstr ""
 
-#: templates/main/advantages.html:546
+#: templates/main/advantages.html:544
 msgid ""
 "\n"
 "                            Le system ISODUR est vraiment « écologique » car "
@@ -905,7 +941,7 @@ msgid ""
 "                        "
 msgstr ""
 
-#: templates/main/advantages.html:553
+#: templates/main/advantages.html:551
 msgid ""
 "\n"
 "                            ISODUR HOUSE est une entreprise soucieuse de "
@@ -916,7 +952,7 @@ msgid ""
 "                        "
 msgstr ""
 
-#: templates/main/advantages.html:574
+#: templates/main/advantages.html:572
 msgid ""
 "\n"
 "                        Avec ISODUR on peut construire n’importe quel\n"
@@ -924,7 +960,7 @@ msgid ""
 "                         "
 msgstr ""
 
-#: templates/main/advantages.html:580
+#: templates/main/advantages.html:578
 msgid ""
 "\n"
 "                            Les murs ISODUR permettent la pose de tout type "
@@ -935,7 +971,7 @@ msgid ""
 "                        "
 msgstr ""
 
-#: templates/main/advantages.html:587
+#: templates/main/advantages.html:585
 msgid ""
 "\n"
 "                            Le client n’a pas à se soucier de choisir ses "
@@ -945,7 +981,7 @@ msgid ""
 "                        "
 msgstr ""
 
-#: templates/main/advantages.html:591
+#: templates/main/advantages.html:589
 msgid ""
 "\n"
 "                            Brique, pierres, stucco, enduit, peinture, "
@@ -954,7 +990,7 @@ msgid ""
 "                        "
 msgstr ""
 
-#: templates/main/advantages.html:597
+#: templates/main/advantages.html:595
 msgid ""
 "\n"
 "                            La construction avec ISODUR HOUSE offre une "
@@ -967,25 +1003,25 @@ msgid ""
 "                        "
 msgstr ""
 
-#: templates/main/advantages.html:620
+#: templates/main/advantages.html:618
 #, python-format
 msgid ""
 "jusqu’a 90 %% d’économie en besoin de chauffage et de climatisation a vie"
 msgstr ""
 
-#: templates/main/advantages.html:621
+#: templates/main/advantages.html:619
 msgid "Economie sur installation des climatiseurs et chauffages centrales"
 msgstr ""
 
-#: templates/main/advantages.html:622
+#: templates/main/advantages.html:620
 msgid "Economisé du temps et disponibilité rapide de votre maison"
 msgstr ""
 
-#: templates/main/advantages.html:623
+#: templates/main/advantages.html:621
 msgid "Gain sur loyer et intérêts intercalaires"
 msgstr ""
 
-#: templates/main/advantages.html:624
+#: templates/main/advantages.html:622
 msgid ""
 "\n"
 "                            Une construction avec ISODUR HOUSE ne se déforme "
@@ -996,11 +1032,11 @@ msgid ""
 "                        "
 msgstr ""
 
-#: templates/main/advantages.html:630
+#: templates/main/advantages.html:628
 msgid "Gain de surface habitable"
 msgstr ""
 
-#: templates/main/advantages.html:648
+#: templates/main/advantages.html:646
 msgid ""
 "\n"
 "                                Est-ce qu’il faut un architecte spécialisé "
@@ -1011,7 +1047,7 @@ msgid ""
 "                            "
 msgstr ""
 
-#: templates/main/advantages.html:657
+#: templates/main/advantages.html:655
 msgid ""
 "\n"
 "                            Non, la simplicité du système est très pratique "
@@ -1024,14 +1060,14 @@ msgid ""
 "                        "
 msgstr ""
 
-#: templates/main/advantages.html:667
+#: templates/main/advantages.html:665
 msgid ""
 "\n"
 "                                Y a t-il une limite au nombre d’étages ?\n"
 "                            "
 msgstr ""
 
-#: templates/main/advantages.html:673
+#: templates/main/advantages.html:671
 msgid ""
 "\n"
 "                            Le nombre d’étages ou la hauteur du bâtiment "
@@ -1044,7 +1080,7 @@ msgid ""
 "                        "
 msgstr ""
 
-#: templates/main/advantages.html:682
+#: templates/main/advantages.html:680
 msgid ""
 "\n"
 "                                Comment sont installées les portes et "
@@ -1052,7 +1088,7 @@ msgid ""
 "                            "
 msgstr ""
 
-#: templates/main/advantages.html:688
+#: templates/main/advantages.html:686
 msgid ""
 "\n"
 "                            Une fois le béton mis en place, les portes et "
@@ -1063,7 +1099,7 @@ msgid ""
 "                        "
 msgstr ""
 
-#: templates/main/advantages.html:696
+#: templates/main/advantages.html:694
 msgid ""
 "\n"
 "                                Est-ce que ISODUR est conforme aux standards "
@@ -1072,15 +1108,15 @@ msgid ""
 "                            "
 msgstr ""
 
-#: templates/main/advantages.html:703
+#: templates/main/advantages.html:701
 msgid "Oui. Il est même supérieur aux normes."
 msgstr ""
 
-#: templates/main/advantages.html:706
+#: templates/main/advantages.html:704
 msgid " Est-ce que le système ISODUR est-il un produit « vert»"
 msgstr ""
 
-#: templates/main/advantages.html:710
+#: templates/main/advantages.html:708
 #, python-format
 msgid ""
 "\n"
@@ -1108,7 +1144,7 @@ msgid ""
 "                        "
 msgstr ""
 
-#: templates/main/advantages.html:726
+#: templates/main/advantages.html:724
 msgid ""
 "\n"
 "                                Est-ce que je peux visiter une maison "
@@ -1116,7 +1152,7 @@ msgid ""
 "                            "
 msgstr ""
 
-#: templates/main/advantages.html:732
+#: templates/main/advantages.html:730
 msgid ""
 "\n"
 "                            Oui, il vous su t de nous contactez par mail ou "
@@ -1142,19 +1178,19 @@ msgstr ""
 msgid "Video galerie"
 msgstr ""
 
-#: templates/main/our-product.html:6
-msgid "Our"
+#: templates/main/our-product.html:5
+msgid "nos "
 msgstr ""
 
-#: templates/main/our-product.html:6
+#: templates/main/our-product.html:5
 msgid "Produits"
 msgstr ""
 
-#: templates/main/our-product.html:13
+#: templates/main/our-product.html:11
 msgid "des blocs de coffrages"
 msgstr ""
 
-#: templates/main/our-product.html:15
+#: templates/main/our-product.html:13
 msgid ""
 "\n"
 "                    Nos coffrages isolants ISODUR HOUSE procurent aux "
@@ -1163,11 +1199,11 @@ msgid ""
 "                "
 msgstr ""
 
-#: templates/main/our-product.html:26
+#: templates/main/our-product.html:22
 msgid "Plaque de polystyrene"
 msgstr ""
 
-#: templates/main/our-product.html:28
+#: templates/main/our-product.html:24
 msgid ""
 "\n"
 "                    Quelles que soient leur dimension ou leur épaisseur, les "
@@ -1176,11 +1212,11 @@ msgid ""
 "                "
 msgstr ""
 
-#: templates/main/our-product.html:39 templates/products/product_3.html:9
+#: templates/main/our-product.html:33 templates/products/product_3.html:9
 msgid "D’autre produit en polystyrene"
 msgstr ""
 
-#: templates/main/our-product.html:41
+#: templates/main/our-product.html:35
 msgid ""
 "\n"
 "                    Les blocs de polystyrène expansé ISODUR BOX sont "
@@ -1189,28 +1225,36 @@ msgid ""
 "                "
 msgstr ""
 
-#: templates/navbar.html:26 templates/white-header.html:26
-msgid "company"
+#: templates/main/testimonials.html:4
+msgid "Qualité et expérience professionnelle"
 msgstr ""
 
-#: templates/navbar.html:29 templates/white-header.html:29
+#: templates/navbar.html:36 templates/white-header.html:36
+msgid "Société"
+msgstr ""
+
+#: templates/navbar.html:39 templates/white-header.html:39
 msgid "produits"
 msgstr ""
 
-#: templates/navbar.html:32 templates/white-header.html:32
-msgid "advantage"
+#: templates/navbar.html:42 templates/white-header.html:42
+msgid "Avantage"
 msgstr ""
 
-#: templates/navbar.html:35 templates/white-header.html:35
-msgid "partner"
+#: templates/navbar.html:45 templates/white-header.html:45
+msgid "Etapes De Construction"
 msgstr ""
 
-#: templates/navbar.html:38 templates/white-header.html:38
-msgid "projects"
+#: templates/navbar.html:48 templates/white-header.html:48
+msgid "Partenaires"
 msgstr ""
 
-#: templates/navbar.html:41 templates/white-header.html:41
-msgid "contact us"
+#: templates/navbar.html:51 templates/white-header.html:51
+msgid "projets"
+msgstr ""
+
+#: templates/navbar.html:54 templates/white-header.html:54
+msgid "contactez-nous"
 msgstr ""
 
 #: templates/products/product_1.html:9
@@ -1255,171 +1299,170 @@ msgid ""
 "                        "
 msgstr ""
 
-#: templates/products/product_1.html:37 templates/products/product_2.html:57
-msgid "Blocks of"
+#: templates/products/product_1.html:37 templates/products/product_2.html:64
+msgid "Gamme de Produits"
 msgstr ""
 
-#: templates/products/product_1.html:39 templates/products/product_2.html:59
-msgid "ISODUR SYSTEM "
+#: templates/products/product_1.html:39
+msgid "Isodur"
 msgstr ""
 
-#: templates/products/product_1.html:68
+#: templates/products/product_1.html:69
 msgid ""
 "LA DALLE COFFRANTE ISOLANTE ISODUR. La Dalle béton la plus résistante du "
 "marché"
 msgstr ""
 
-#: templates/products/product_1.html:74
+#: templates/products/product_1.html:82
 msgid "ISOLATION ET ETANCHEITE TOITURE TERRASSE"
 msgstr ""
 
-#: templates/products/product_1.html:77
+#: templates/products/product_1.html:85
 msgid "Absence de ponts thermiques"
 msgstr ""
 
-#: templates/products/product_1.html:80
+#: templates/products/product_1.html:88
 msgid "Solution d’étanchéité parfaite"
 msgstr ""
 
-#: templates/products/product_1.html:83
+#: templates/products/product_1.html:91
 msgid "Surcharge jusqu’à 1 000 kg / m²"
 msgstr ""
 
-#: templates/products/product_1.html:86
+#: templates/products/product_1.html:94
 msgid "Isolation des murs et acrotères en continu"
 msgstr ""
 
-#: templates/products/product_1.html:89
+#: templates/products/product_1.html:97
 msgid "PLANCHER HOURDIS ETAGE"
 msgstr ""
 
-#: templates/products/product_1.html:92
+#: templates/products/product_1.html:100
 msgid ""
 "Gestion des températures par niveau et par pièce, dissociation des parties "
 "jour et nuit de la maison"
 msgstr ""
 
-#: templates/products/product_1.html:95
+#: templates/products/product_1.html:103
 msgid "Facilite la pose de faux-plafonds, de gaines et de l’éclairage"
 msgstr ""
 
-#: templates/products/product_1.html:98
+#: templates/products/product_1.html:106
 msgid "Permet tous types de finition (frises, enduit projeté et BA13)"
 msgstr ""
 
-#: templates/products/product_1.html:101
+#: templates/products/product_1.html:109
 msgid "Facilite la création de réservations"
 msgstr ""
 
-#: templates/products/product_1.html:104
+#: templates/products/product_1.html:112
 msgid "ISOLATION VIDE SANITAIRE"
 msgstr ""
 
-#: templates/products/product_1.html:107
+#: templates/products/product_1.html:115
 msgid "Une véritable barrière thermique pour un confort inégalé"
 msgstr ""
 
-#: templates/products/product_1.html:110
+#: templates/products/product_1.html:118
 msgid ""
 "Pose sur radier ou sur fouilles en rigoles, réduction des délais, pas "
 "d’outillage spécifique, économies de matériaux"
 msgstr ""
 
-#: templates/products/product_1.html:113
+#: templates/products/product_1.html:121
 msgid ""
 "Adaptée aux zones sismiques, inondables, terrains argileux, dégâts miniers, …"
 msgstr ""
 
-#: templates/products/product_1.html:118
+#: templates/products/product_1.html:126
 msgid "- Légèreté du PSE."
 msgstr ""
 
-#: templates/products/product_1.html:121
+#: templates/products/product_1.html:129
 msgid ""
 "- Réduction du poids mort du plancher et donc augmentation de la portée des "
 "poutrelles."
 msgstr ""
 
-#: templates/products/product_1.html:124
+#: templates/products/product_1.html:132
 msgid "- Souplesse de la conception."
 msgstr ""
 
-#: templates/products/product_1.html:127
+#: templates/products/product_1.html:135
 msgid "- Performance thermique élevée."
 msgstr ""
 
-#: templates/products/product_1.html:130
+#: templates/products/product_1.html:138
 msgid "- Un des meilleurs rapports qualité thermique/prix."
 msgstr ""
 
-#: templates/products/product_1.html:133
+#: templates/products/product_1.html:141
 msgid "- Une di munition notable de la consommation dénergie."
 msgstr ""
 
-#: templates/products/product_1.html:136
+#: templates/products/product_1.html:144
 msgid "LE 4 EN 1"
 msgstr ""
 
-#: templates/products/product_1.html:138
+#: templates/products/product_1.html:146
 msgid ""
 "\n"
-"                            Avec les hourdis ISODUR en Polystyrène EPS, en "
-"une intervention simple, vous réalisez 4\n"
-"                            opérations complexes pour réaliser votre dalle "
+"                        Avec les hourdis ISODUR en Polystyrène EPS, en une "
+"intervention simple, vous réalisez 4\n"
+"                        opérations complexes pour réaliser votre dalle "
 "béton !\n"
-"                        "
+"                    "
 msgstr ""
 
-#: templates/products/product_1.html:144
+#: templates/products/product_1.html:152
 msgid "Pose du coffrage"
 msgstr ""
 
-#: templates/products/product_1.html:145
+#: templates/products/product_1.html:153
 msgid "Pose de l’isolation"
 msgstr ""
 
-#: templates/products/product_1.html:146
+#: templates/products/product_1.html:154
 msgid "Etanchéité à l’air"
 msgstr ""
 
-#: templates/products/product_1.html:147
+#: templates/products/product_1.html:155
 msgid "Suppression des ponts thermiques"
 msgstr ""
 
-#: templates/products/product_1.html:149
+#: templates/products/product_1.html:157
 msgid "Simplifiez-vous la vie faites des économies"
 msgstr ""
 
-#: templates/products/product_1.html:150
+#: templates/products/product_1.html:158
 msgid "Simplement génial"
 msgstr ""
 
-#: templates/products/product_1.html:151
+#: templates/products/product_1.html:159
 msgid "Dalle ISODUR sur mesure :"
 msgstr ""
 
-#: templates/products/product_1.html:153
+#: templates/products/product_1.html:161
 msgid ""
 "\n"
-"                            Fabrication des hourdis sur mesure coupés a la "
+"                        Fabrication des hourdis sur mesure coupés a la "
 "longueur\n"
-"                            Les portées pouvant aller jusqu'à 8 mètre et "
-"plus.\n"
-"                        "
+"                        Les portées pouvant aller jusqu'à 8 mètre et plus.\n"
+"                    "
 msgstr ""
 
-#: templates/products/product_1.html:158
+#: templates/products/product_1.html:166
 msgid "La réduction de main d’œuvre est prioritaire sur un chantier :"
 msgstr ""
 
-#: templates/products/product_1.html:160
+#: templates/products/product_1.html:168
 msgid ""
 "\n"
-"                            Le temps de mise en œuvre est d’une rapidité "
+"                        Le temps de mise en œuvre est d’une rapidité "
 "inégalée.\n"
-"                            Hourdis + armatures métalliques 100 m2 posé en 1 "
+"                        Hourdis + armatures métalliques 100 m2 posé en 1 "
 "heure\n"
-"                        "
+"                    "
 msgstr ""
 
 #: templates/products/product_2.html:9
@@ -1430,7 +1473,7 @@ msgstr ""
 msgid "polystyrene"
 msgstr ""
 
-#: templates/products/product_2.html:13
+#: templates/products/product_2.html:16
 msgid ""
 "\n"
 "                            Quelles que soient leur dimension ou leur "
@@ -1443,7 +1486,7 @@ msgid ""
 "                        "
 msgstr ""
 
-#: templates/products/product_2.html:21
+#: templates/products/product_2.html:24
 msgid ""
 "\n"
 "                            C’est un matériau rigide et léger, facile à "
@@ -1454,7 +1497,7 @@ msgid ""
 "                        "
 msgstr ""
 
-#: templates/products/product_2.html:28
+#: templates/products/product_2.html:31
 msgid ""
 "\n"
 "                            De tous les types d’isolants rigides offerts sur "
@@ -1464,7 +1507,7 @@ msgid ""
 "                        "
 msgstr ""
 
-#: templates/products/product_2.html:34
+#: templates/products/product_2.html:37
 msgid ""
 "\n"
 "                            Parfaits pour des applications résidentielles, "
@@ -1475,47 +1518,47 @@ msgid ""
 "                        "
 msgstr ""
 
-#: templates/products/product_2.html:41
+#: templates/products/product_2.html:46
 msgid "Abondant sur le marché"
 msgstr ""
 
-#: templates/products/product_2.html:42
+#: templates/products/product_2.html:47
 msgid "Bonnes performances thermiques"
 msgstr ""
 
-#: templates/products/product_2.html:43
+#: templates/products/product_2.html:48
 msgid "Léger et facile à travailler"
 msgstr ""
 
-#: templates/products/product_2.html:44
+#: templates/products/product_2.html:49
 msgid "Insensible à l’humidité"
 msgstr ""
 
-#: templates/products/product_2.html:45
+#: templates/products/product_2.html:50
 msgid "Perméable à la vapeur d’eau"
 msgstr ""
 
-#: templates/products/product_2.html:46
+#: templates/products/product_2.html:51
 msgid "Prix abordable"
 msgstr ""
 
-#: templates/products/product_2.html:47
+#: templates/products/product_2.html:52
 msgid "Conductivité thermique"
 msgstr ""
 
-#: templates/products/product_2.html:48
+#: templates/products/product_2.html:53
 msgid "Comportement à l’eau"
 msgstr ""
 
-#: templates/products/product_2.html:49
+#: templates/products/product_2.html:54
 msgid "Résistance mécanique"
 msgstr ""
 
-#: templates/products/product_2.html:50
+#: templates/products/product_2.html:55
 msgid "Réaction au feu"
 msgstr ""
 
-#: templates/products/product_2.html:51
+#: templates/products/product_2.html:56
 msgid "Stabilité dimensionnelle"
 msgstr ""
 
@@ -1732,6 +1775,242 @@ msgstr ""
 
 #: templates/project_list.html:40
 msgid "LES SOUS-SOL ET PISCINES"
+msgstr ""
+
+#: templates/steps.html:8
+msgid "ETAPES DE"
+msgstr ""
+
+#: templates/steps.html:9
+msgid "CONSTRUCTION"
+msgstr ""
+
+#: templates/steps.html:13
+msgid "Mise en œuvre du projet pilote a Témara"
+msgstr ""
+
+#: templates/steps.html:46
+msgid ""
+" La réalisation des semelles s’apparente à celles d’une construction "
+"standard. Lors\n"
+"                        de leur bétonnage, des\n"
+"                        tiges d’armature verticales sont placées afin de les "
+"ancrer solidement avec les mur de béton et\n"
+"                        ainsi éviter\n"
+"                        tout déplacement latéral.\n"
+"                    "
+msgstr ""
+
+#: templates/steps.html:58
+msgid ""
+"\n"
+"                        Les deux panneaux parallèles, formant le coffrage "
+"isolant, sont retenus entre eux par des tiges\n"
+"                        d’assemblage\n"
+"                        métalliques afin de préserver une distance voulue, "
+"offrant ainsi une solidité et une résistance\n"
+"                        au feu accrues\n"
+"                        au coffrage.\n"
+"                    "
+msgstr ""
+
+#: templates/steps.html:71
+msgid ""
+"\n"
+"                        Les panneaux rigides de polystyrène expansé sont "
+"ultra-légers. Ils se transportent et se\n"
+"                        manipulent très\n"
+"                        aisément sur le chantie\n"
+"                    "
+msgstr ""
+
+#: templates/steps.html:82
+msgid ""
+"\n"
+"                        Les blocs se montent les uns avec les autres par "
+"emboîtement comme on monte des gros legos.\n"
+"                    "
+msgstr ""
+
+#: templates/steps.html:91
+msgid ""
+"\n"
+"                        L’acier d’armature est attaché aux tiges "
+"d’assemblage afin d’éviter leur déplacement durant la\n"
+"                        mise en place\n"
+"                        du béton.\n"
+"                    "
+msgstr ""
+
+#: templates/steps.html:101
+msgid "Un chantier rapide et propre"
+msgstr ""
+
+#: templates/steps.html:103
+msgid ""
+"\n"
+"                        à l’aide du système d’échafaudage, les murs sont "
+"stabilisés et étayés avant et après la mise en\n"
+"                        place du\n"
+"                        béton. Espacées de 1.5m, les pattes d'échafaudage "
+"sont là pour servir de niveau, de cordeau\n"
+"                        ainsi que d'échafaudage\n"
+"                        pratique lors du coulage.\n"
+"                    "
+msgstr ""
+
+#: templates/steps.html:116
+msgid ""
+" Le béton est coulé à l’intérieur du coffrage isolant par l’entremise d’une "
+"pompe à\n"
+"                        béton. Une fois mis en\n"
+"                        place, il adhère parfaitement à la paroi, donnant "
+"naissance a un mur porteur, appelé mur\n"
+"                        \"sandwich\", dont\n"
+"                        la résistance est largement supérieure à une "
+"structure traditionnelle.\n"
+"                    "
+msgstr ""
+
+#: templates/steps.html:124
+msgid ""
+" Grâce aux qualités isolantes du polystyrène expansé ainsi qu’à la masse "
+"thermique\n"
+"                        isolante du béton, l’étape\n"
+"                        de l’isolation est ainsi réalisée, contrairement aux "
+"méthodes\n"
+"                        conventionnelles.\n"
+"                    "
+msgstr ""
+
+#: templates/steps.html:131
+msgid " Résultat : une économie de temps et d‘argent. "
+msgstr ""
+
+#: templates/steps.html:137
+msgid "Hourdis en polystyrène expansé."
+msgstr ""
+
+#: templates/steps.html:139
+msgid ""
+"\n"
+"                        Avantages : Allègent la structure, se manipulent "
+"aisément, imputrescibles et ne\n"
+"                        craignent pas l’humidité.\n"
+"                    "
+msgstr ""
+
+#: templates/steps.html:149
+msgid ""
+" Pour éviter les joints croisés, la pose se fait rangée par rangée avec un\n"
+"                        croisement des blocs comme pour\n"
+"                        la maçonnerie traditionnelle. "
+msgstr ""
+
+#: templates/steps.html:159
+msgid ""
+"\n"
+"                        Pose de ferraillage de la dalle et des poutrelles "
+"avant coulage du beton. "
+msgstr ""
+
+#: templates/steps.html:166
+msgid "Coulage de la dalle avec vibreur a beton."
+msgstr ""
+
+#: templates/steps.html:168
+msgid ""
+" Avant le coulage, des gaines électriques et de plomberie sont noyées dans "
+"le voile\n"
+"                        béton et dans la dalle.\n"
+"                    "
+msgstr ""
+
+#: templates/steps.html:173
+msgid ""
+"\n"
+"                        Résultat : un gain considérable de temps lors du "
+"second oeuvre. "
+msgstr ""
+
+#: templates/steps.html:180
+msgid "Plomberie et électricité"
+msgstr ""
+
+#: templates/steps.html:182
+msgid ""
+" A l'aide d'un couteau ou une scie électrique, on taille les ouvertures pour "
+"les\n"
+"                        boîtes et câblages électriques.\n"
+"                    "
+msgstr ""
+
+#: templates/steps.html:187
+msgid " Même procède pour tracer les tuyaux de canalisations. "
+msgstr ""
+
+#: templates/steps.html:194
+msgid ""
+" Une construction en béton armé ne se déforme pas et ne se dégrade pas.\n"
+"                        Elle minimise donc les frais d’entretien\n"
+"                        au cours des années. "
+msgstr ""
+
+#: templates/steps.html:203
+msgid ""
+"\n"
+"                        L’enveloppe de polystyrène expansé empêche la "
+"transmission de l’humidité par le\n"
+"                        béton.\n"
+"                    "
+msgstr ""
+
+#: templates/steps.html:209
+msgid ""
+"\n"
+"                        Résultat : les murs du sous-sol sont toujours "
+"parfaitement secs. "
+msgstr ""
+
+#: templates/steps.html:218
+msgid ""
+" Les façades exposées des panneaux - à l'extérieur comme à l'intérieur -\n"
+"                        peuvent être recouvertes de façon\n"
+"                        classique, au moyen d'enduits, de plaques de plâtre, "
+"de parements (marbre,\n"
+"                        carrelage, bois,...).\n"
+"                    "
+msgstr ""
+
+#: templates/steps.html:229
+msgid ""
+" Tout comme dans la construction conventionnelle, les coffrages \"IsoDur\n"
+"                        House\" sont conçus de façon à permettre\n"
+"                        l’installation de faux cadres et cadres des portes "
+"et fenêtres, ainsi que les volets\n"
+"                        électriques.\n"
+"                    "
+msgstr ""
+
+#: templates/steps.html:241
+msgid ""
+" De la même façon qu'une constructions traditionnelles, les armoires de\n"
+"                        cuisine se posent et se fixent facilement\n"
+"                        dans le mur. "
+msgstr ""
+
+#: templates/steps.html:250
+msgid ""
+" A l'oeil nu on ne remarque pas la différence entre une façade\n"
+"                        traditionnelle et le bijou \"IsoDur House\".\n"
+"                    "
+msgstr ""
+
+#: templates/steps.html:255
+msgid ""
+" Ce n'est qu'a l'intérieur qu'on sent la différence. Nos coffrages\n"
+"                        isolants assurent aux occupants un environnement\n"
+"                        sain, tempéré et isolé du bruit. "
 msgstr ""
 
 #~ msgid "Hello, suka!"
